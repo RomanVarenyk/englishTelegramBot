@@ -40,7 +40,6 @@ def send_main_menu(chat_id):
     markup.add(
         InlineKeyboardButton("Practice words", callback_data='words'),
         InlineKeyboardButton("Practice grammar", callback_data='grammar'),
-        InlineKeyboardButton("Practice listening", callback_data='listening'),
         InlineKeyboardButton("Practice conversation (experimental)", callback_data='convo')
     )
     bot.send_message(chat_id, "Pick one", reply_markup=markup)
@@ -98,10 +97,6 @@ def callback_query(call):
 
     elif call.data == 'grammar':
         doGrammar(call.message.chat.id)
-
-    elif call.data == 'listening':
-        bot.send_message(call.message.chat.id, "Good")
-        reset_state(call.message.chat.id)
 
     elif call.data == 'convo':
         bot.send_message(call.message.chat.id, "Fuuuuuuucl")
