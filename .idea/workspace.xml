@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4d03321-390e-48f7-9414-8a9fbbf54a92" name="Changes" comment="Added grammar to bot.">
+    <list default="true" id="c4d03321-390e-48f7-9414-8a9fbbf54a92" name="Changes" comment="Added words and definitions, still working">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getDefs.py" beforeDir="false" afterPath="$PROJECT_DIR$/getDefs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extracted_content.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extracted_content.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/failed_words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified_words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
     "Python.getDefs.executor": "Run",
     "Python.gptStuff.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.temp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -75,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721922605817</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added words and definitions, still working">
+      <option name="closed" value="true" />
+      <created>1721945446040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721945446040</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -84,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Original commit" />
     <MESSAGE value="Added grammar to bot." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added grammar to bot." />
+    <MESSAGE value="Added words and definitions, still working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added words and definitions, still working" />
   </component>
 </project>

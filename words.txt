@@ -1,1227 +1,1220 @@
-hail of bullets
-half
-halo jump
-hammer
-hammock
-hand
-handheld
-handover
-handset
-handraulic
-hangar
-hangfire
-harbor
-hard
-harm
-harmless
-harmful
-harness
-hasty
-hatch
-haul
-hazard
-HE
-head
-heading
-headphone
-headquarters
-health
-heat
-hear
-HEAT
-heat-seeker
-heating
-Heavy Bomber Aviation Regiment (HBAR)
-heavy machine gun (HMG)
-hedge
-hedgehog
-height
-heliborne
-helicopte
-helmet
-hide out
-high explosive
-high-powered
-high-precision
-highway
-hijack
-hike
-hill
-HIMARS
-hit
-hold
-Hold your fire!
-holder
-holding area
-hole
-holster
-homeland
-horse
-hostage
-hostile
-hotel
-hover
-howitzer
-hull
-human
-hypothermia
-ice
-identifiable
-ID
-IED
-IFF
-illegal
-illumination
-image
-imagine
-immobile
-immune
-impact
-impede
-implement
-implode
-improvised
-impunity
-inaccessible
-inadequate
-incendiaries
-inch
-incident
-incursion
-indication
-indirect
-indiscriminate
-infantry
-infect
-infantryman
-infantry unit
-infantry fighting vehicle (IFV)
-infantry mobility vehicle (IMV)
-infighting
-infiltrate
-inflatable
-inflate
-Inflict
-influence
-information
-infrared (IR)
-ingress
-initiate
-injury
-inner
-input
-insert
-insignia
-inspect
-inspection
-inspector
-instability
-instalation
-instruct
-insurgent
-intake
-intact
-inteligence
-intensity
-intent
-intercept
-interchangeability
-intercom
-interdict
-interior
-intermediate
-internal
-internment
-interpreter
-interrogation
-intersection
-interval
-invade
-invaders
-invasion
-invest
-investigation
-invincible
-invisible
-irregular
-irrepairable
-island
-isolated
-item
-jack-up
-jacket
-jam
-jammer
-jamproof
-jeep
-jet
-jettison
-Jolly Roger
-jump in
-jumper
-jungle
-junk
-K-9
-kamikaze
-keel
-keep
-keeper
-kerosene
-key
-kill
-killed in action (KIA)
-kinetic kill
-kit
-knot
-ladder
-land
-landmark
-laser
-latch
-lattitude
-longtitude
-latrine
-launch
-launcher
-law
-lay
-lay down
-layer
-leader
-leaflet
-leak
-lease
-legion
-lend
-lever
-liberty
-licence
-life
-light
-lighter
-lighting
-lightning
-limb
-limit
-line
-link
-liquid
-live
-local
-light antitank weapon (LAW)
-location
-lock
-log
-logistics
-loiter
-long-range
-loop
-looter
-low
-low flying
-lubrication
-machine
-magazine
-magnetic
-main
-maintain
-maintenance
-man portable air defense system (MANPADS)
-management
-maneuver
-maneuverability
-manhole
-manufacturer
-map
-MARCH algorythm
-margin
-maritime
-marked map
-marker
-marksman
-martial law
-mask
-masking
-materiel
-meal
-meal ready to eat (MRE)
-mechanical
-mechanism
-medical equipment
-medical evacuation (MEDEVAC)
-medical facility
-medical planning
-melting
-member
-mercs
-mercenary
-mess
-method
-method of operation (MOO)
-MG emplacement
-microwave
-military
-militia
-mine
-mine-clearing
-minefield
-minimum
-mining
-ministry
-minister
-missile
-missing
-missing in action (MIA)
-mission, enemy, terrain (and weather), troops, time available, civil considerations (METT-TC)
-mobile
-mobilization
-model
-modification
-modular
-cocktail
-monitor
-morphine
-mortar
-motion
-motorized
-mechanized
-mountain
-mounted
-movement
-mud
-munition
-mushroommusket
-musket-proof
-muzzle
-muzzle brake
-zephyr
-zero
-zeroing
-zeroize
-zone
-Zulu time; GMT
-Yankee
-yard
-yawn
-pacify
-pack
-padding
-paint
-panic
-parachute
-parachute drop/jump
-passage
-passanger
-passive
-password
-patch
-path
-patrol
-pay
-peace
-peacekeeper
-peacetime
-penetrate
-people
-perimeter
-perimeter defense (all-around defense)
-permanent base
-personal protection
-personnel
-petrol
-phase
-phase line (PL)
-photograph
-physical fitness
-physiological warfare
-pick off
-pier
-pierce
-pillbox
-pilot
-pill
-pin
-pin down
-pistol
-pit
-plan
-plane
-planned
-plant
-plate carrier
-private-Рядовий
-PFC(Private first class)-Старший солдат
-Corporal-Молодший сержант
-Sergeant-Сержант
-2nd Lieutenant-Молодший лейтенант (Brit: Лефтенант, Amer: Лутенант)
-Captain-Капітан
-Major-Майор
-Lt. Colonel-Під полковник
-Colonel-Полковник
-team-Команда
-squad-Відділення
-platoon-Взвод
-company-Рота
-battalion-Батальон
-brigade-Бригада
-regiment-Полк
-division-Дивізія
-corps-Корпус
-field army-Польова армія
-platoon sergeant
-pocket
-POG (People Other than Grunts)
-point man
-point of contact (РОС)
-point target
-point
-pollution
-pond
-pontoon
-pontoon bridge
-pooling
-position
-potable water
-POW collecting point
-powder
-practice
-precedence
-precision
-precision strike
-prediction
-preflight check
-preparatory fire
-pressure
-prevent
-primary, alternate, contingency, emergency (PACE)
-primer
-priority
-procedure
-process
-proceeds
-product
-production
-productivity
-program
-projectile
-prone
-propagation
-propaganda
-propellent
-propulsion
-protection
-prototype
-provide fire
-pump
-pump-action
-punch
-purge
-purity
-pursuit
-quadcopter
-quadrant
-qualification
-qualified
-Quality Control (QC)
-quarantine
-quarter
-quitter
-quickie
-naked eye
-napalm
-nation
-naval academy
-navy
-naval blockade
-navigation
-navigator
-NBC
-needle
-negative
-negotiate
-neighbor
-net
-netting
-network
-neutralise
-neutrality
-night
-night vision device (NVD)
-night vision goggles (NVG)
-NLAW (Next Generation Light Anti-tank Weapon)
-non-commissioned officers (NCO)
-non-lethal
-nonflammable
-North Atlantic Treaty Organization (NATO)
-obey orders
-objective
-objective area
-objective rally(ing) point (ORP)
-obscure
-observation
-observe
-observer
-obsolete
-obstacle
-obstruction
-occlusion
-occupation
-occupy
-offensive
-officer
-official
-offset
-oil
-on call
-on duty
-on foot
-on-hand
-on-load
-on scene
-on target
-one-eighty
-one-up
-open fire
-open source intelligence (OSINT)
-open up
-Opened / Closed
-operate
-operation
-operation order (OPORD)
-operational security (OPSEC)
-opiates
-optical
-optimized
-orbit
-order
-ordnance
-organic
-organization
-organize
-orientation
-orifice
-original
-outcome
-outpost
-over
-overhead
-overheat
-overrun
-overwatch
-oxygen
-race
-radar
-radiation
-radiator
-radio
-radio-controlled
-radio frequency (RF)
-radio net
-radio telephone operator (RTO)
-radioactive
-raid
-raincoat
-rain
-rainfall
-ram
-random
-range
-range finder
-Ranger candy
-rank
-ranking officer
-rappel
-rations
-re-up
-react
-readiness condition (REDCON)
-ready
-real time
-front sight-мушка
-rear sight-цілик
-rearguard
-rearm
-rearward
-rebel
-rebellion
-receiver
-recess
-recock
-recogntion
-recoil
-recommitment
-recon by fire
-reconcentrate
-recon unit
-reconnoiter
-record
-recover
-recovery position
-recruiting
-recruit
-reduction
-reduce
-reference
-reflector
-refit
-refuel
-refugee
-register
-regulars
-rehabilitation
-reinforce
-relationship
-relative
-relay
-release
-reliability
-relieve
-reload
-relocation
-removal
-reorganize
-repair
-REPEAT
-repeater
-replacement battery
-request fire
-requirement
-requisition
-rescue
-research
-reserve
-reservist
-resign
-resolve
-restrict fire
-resupply
-retardation
-retire
-retreat
-return fire
-reveille / réveillé
-revision
-rib
-ride
-rifle
-rifleman
-rifling
-ring
-riot
-risk
-river
-road
-rocket artillery
-rope
-rucksack
-sabotage group
-sabotage
-saboteur
-safety
-safety pin
-sailor
-Saline Lock
-SALUTE (Size; Activity; Location; Unit; Time; Equipment)
-salvo
-sanction
-sandbag
-sandwich
-sapper
-satellite
-saturate
-sausage
-saving
-say again
-scatter
-scenario
-schedule
-scout
-screen
-screw
-second
-sector
-secure
-security
-security element
-see
-sea
-seek
-seize
-self aid
-semi
-separate
-serve
-serviceman
-set a trap
-severe damage
-shaft
-shallow
-sham
-shell
-shelling
-shelter
-shift fire
-shift frequencies
-shift from a known point
-ship
-shoot
-shootout
-firefight
-shot
-shotgun
-shoulder
-shovel
-side
-sick
-siege
-sight
-signal
-true a sight
-silver
-simulate
-single fire
-single combat
-siren
-on the fence
-situation
-situation report (SITREP)
-sitz krieg
-skill
-skip
-sleep
-sleeping
-small arms (SA)
-small tactical unmanned aircraft system (STUAS)
-smoke
-smog
-smooth bore
-sniper
-snow
-soak
-soldier
-solution
-sound
-south
-north
-west
-shrapnel
-Special forces
-shell casing
-spray and pray
-standard
-standing order(s)
-static defence
-stay
-stealth
-step
-sterilization
-stockpile
-store
-strength
-stress
-subordinate
-support
-suppress
-surface-to-air missile (SAM)
-surgeon
-surplus
-surrender
-surround
-sustainment
-syringe
-system
-T-junction
-table
-tactical
-Standard operating procedures (SOP)
-tank
-tanker
-target
-team
-tear gas
-technique
-temperature
-test
-thermal
-thermal-sight/scope
-thermal camera
-thermal signature
-thermobaric
-through
-three-man crew
-throat
-transit
-transition
-transmitter
-transportaion
-trap
-trauma
-tighten
-time
-trench
-dugout
-triger
-tripod
-topography
-troops
-troop carrier
-tracer
-total
-track
-tracked
-tunnel
-search radar
-track radar
-targeting radar
-turbine
-turn
-training
-train
-trains
-trajectory
-type
-Ukrainian Armed Forces
-unblocking
-underwater
-unearth
-unexploded ordnance (UXO)
-unfired
-unidentified
-uniform
-unit cohesion
-unit
-unlawful
-unload
-Unmanned Ground System (UGS)
-Unmanned Undersea Vehicle (UUV)
-unscathed
-unsighted
-upstream
-urban area
-vacation
-valve
-vehicle
-vehicle-borne improvised explosive device (VBIED)
-victim
-victory
-visibility
-wait
-walking
-wall
-wall of fire
-war
-war crime
-war of attrition
-warfighter
-warhead
-warning
-water
-weapon
-weather
-welding
-winter
-wire
-wireless
-withstand
-work
-working
-wound
-accomplish a mission
-accountability
-accuracy
-accurate fire
-achieve a breakthrough
-achieve fire superiority
-adjust fire
-adjustable
-administer first aid
-aerial recce
-affirmative…
-after action review
-aid station
-airburst
-ally
-almost certainly
-amass
-ambulance
-ambush
-ambush position
-anti-personnel
-anti-tank guided missile(ATGM)
-antipersonnel minefield
-antitank mine
-antitank minefield
-approach
-arc of fire
-area defense
-area of operations
-arm a mine
-armor
-arsenal
-assault
-assault force
-assault from ambush
-assault landing
-assign a mission
-assignment
-assistant machine gunner
-assume a formation
-assume a position
-AT opposition
-AT position
-attack
-attack drone
-attack plan
-audacity
-authenticate
-avenue of approach
-avenue of retreat
-avenues of approach
-battlespace
-beach
-beach obstacle
-beacon
-Bacon
-beam
-beam rider
-bearing
-beaten
-beaten track
-become damp
-been there, done that
-belt
-beret
-beyond line-of-sight (BLOS)
-biological
-biological attack
-bipod
-bladder
-blade
-blank
-blank ammunition
-blanket
-blast
-blast effect
-blast overpressure
-blast wave
-blasting cap
-bleach
-bleed
-blind
-blinding
-blitz
-block
-block an attack
-blockade
-blockage
-blood type
-bluff
-blue forces
-Blue Force tracking
-blunt trauma
-body armor
-body bag
-bolt-action
-bolt carrier
-bolt carrier assembly
-bolt guide
-bolt up
-bomb attack
-bomb detector
-bomb-proof
-bomb shelter
-bomb squad
-bombard
-bombardment
-bomblet
-boot camp
-border
-border control
-border disputes
-bore
-bore cleaner
-bore obstruction
-boresight
-bottom
-bottleneck
-bound
-boundary
-bounty
-box in
-bracketing
-breach
-breach a minefield
-breach defenses
-breaching
-bridge
-bridge company
-bridgehead
-bridging
-brief
-brigade artillery
-brigade combat team/BCT
-Browning link
-bruise
-massacre
-buddy care
-buckshot
-buckling
-buddy system
-bulletproof
-bullet wound
-bull's eye
-buried mine
-buried minefield
-burn
-burst
-burst fire
-burst out
-bury a mine
-bustle
-butterfly mine
-cable cutter
-cache
-cadet
-cadence (call)
-cannibalize
-cannon artillery
-cannon fire
-cannon fodder
-cannon-launched guided projectile (CLGP)
-canteen
-cap
-cargo helicopter
-casualty collecting point (CCP)
-chemical, biological, radiological and nuclear (CBRN)
-close air support (CAS)
-coating
-comb
-combined arms
-commander's intent
-commanding officer (CO)
-commando
-commission
-commit
-complex
-component
-composite artillery battalion
-concussion
-condition
-cone of fire
-contact
-contact with the enemy
-contain
-counter-insurgency warfare (COIN)
-counter-sabotage
-counterbattery fire
-crewman
-crewmember
-crewmen
-crossroad
-chill
-chlorine
-CIC (Сombat information control)
-civil war
-civilians
-clash
-class
-classified
-clear the gun
-clicking
-close-quarters combat (CQC) / close-quarters battle (CQB)
-cluster bomb
-coalition
-cohesion
-collaboration
-collapsible
-column
-combat losses
-combat medic
-combat resupply
-combat zone
-command post (CP)
-comms
-communications jammer
-communications link
-compound
-concertina (wire)
-consolidate
-contain the enemy
-contingency plan
-continuity of command
-continuity of defense
-convey
-convoy
-convoy escort
-cooperation
-coordinates
-cope cage
-correction
-counterattack
-counter battery fire
-counter-offensive
-cover by fire
-cover
-concealment
-covering
-covering fire
-crew
-crew served weapon
-critical
-ballistic arc
-daily patrols
-damage
-dead space
-debrief
-defeat
-delay
-delay fuze
-deploy
-detach
-detachment
-detect
-directive
-displace
-disposable
-disregard
-diversion
-divert
-division
-doctrine
-documents
-dodge
-downrange
-downwind
-draftee
-drift
-driver
-drone
-drop
-dual-purpose improved conventional munition (DPICM)
-dud
-duty
-dysentery
-early warning
-earth bank
-earthwork
-easily accessible
-east
-eastbound
-echelon
-elevate
-engine exhaust
-engine failure
-engine oil
-engine test
-engineer
-enhanced
-engraving
-enlargement
-enlist
-enlistment office (draft office)
-ECM environment
-ECM
-ecology
-economy
-ECWCS
-effect
-effective
-effective range
-ejector
-electronic warfare
-element
-elevation
-elevator
-embed
-emergency
-emission
-emission control
-emit
-emplacement
-enclosed sea
-encode
-encounter
-end
-encrypt
-endurance
-enemy
-engage
-engine
-evacuate
-evaluation
-evasion
-exchange
-execution
-expendable
-experience
-explode
-extract
-eye
-face
-facility
-factory
-fail-safe
-fake
-fall back
-fall
-fall in
-fall out
-far
-fatal injury
-fatigue
-ferry
-field
-fight
-fighting hole
-file
-fire control system (FCS)
-fire fight
-fire rate
-fire-support element
-fire team
-Fire When Ready (FWR)
-first aid kit
-fix
-flag
-flank
-flare
-flash
-flashlight
-flechette
-flexibility
-float
-flood
-flyover
-foe
-folding bipod
-follow
-follow me
-forest
-formation
-fort
-fortify
-forward
-foxhole
-frag
-fratricide
-freedom
-frequency
-friction
-friendly
-IFF (Identification friend or foe)
-fuel
-frostbite
-funnel
-fuze
-ensure adequate provisions
-entanglement
-entrench
-envelop
-environment
-EOD
-equipment
-error
-escape
-escort
-establish
-estimate
+hail of bullets - град куль
+rocket artillery - реактивна артилерія
+rope - канат, линва; мотузка; трос; такелаж; прив'язувати канатом; тягти на канаті
+rucksack - ранець рюкзак (Each of the guys had three different rucksacks permanently packed and secured: a desert pack, a jungle pack and one for more temperate climes – mountains, snow and ice.‘Operation Mayhem’, Heaney with Lewis, 2014)
+sabotage group - диверсійна група
+sabotage - саботаж; диверсія; підривна діяльність;  здійснювати підривну діяльність; проводити диверсії (This was a classic Pathfinder tasking: an insertion ahead of British lines to recce, harass, sabotage and destroy.‘Operation Mayhem’, Heaney with Lewis, 2014)
+saboteur - диверсант; саботажник (`внутрішній диверсант')
+safety - безпека (зменшення ризику до припустимого рівня); запобіжник, запобіжний пристрій
+halo jump - (розм.) техніка стрибка з парашутом, за якої парашут розкривається дуже низько від землі
+hammer - курок, ударник (затвора); молот; (розм.) обстрілювати; бомбити; завдавати ударів; громити (противника); просуватися з боями
+hammock - підвісне ліжко (на судні)
+hand - важіль повороту револьверного барабана; стрілка (напр. годинника); (мн.) екіпаж, команда (судна)
+handheld - ручний (про портативний переносний пристрій)
+handover - передача (в контексті протимінної діяльності, передача ділянки землі, яка раніше перебувала під підозрою щодо вмісту вибухонебезпечних предметів, але з якої таку підозру було знято / знижено до прийнятного рівня за допомогою нетехнічного обстеження, технічного обстеження або очищення / розмінування)
+handset - телефонна трубка; (мікротелефонна) гарнітура
+sailor - моряк, матрос
+saline lock - заглушка порт венозного катетера (закриває частину катетера, яка залишається поза шкірою, між використаннями катетера; заповнюється фізіологічним розчином, щоб запобігти згортанню, коли він не використовується; забезпечує доступ для внутрішньовенного введення ліків без використання нової IV крапельниці для кожного препарату)
+hangar - ангар
+salvo - (бомбовий) залп; бомбовий удар; черга (про стрільбу зі зброї); залповий; стріляти залпом, давати залп; робити залпове бомбометання
+hangfire - (аварійна) затримка вибуху або пострілу; затяжний постріл; осічка / затинка; повільне запалення
+sanction - санкція
+harbor - гавань; порт; база (флоту); укритий район ночівлі; укрите місце розташування / зосередження; танкодром; притулок, пристановище; ставати на якір (в гавані); укриватися; давати притулок; зупинятися на відпочинок / стоянку
+sandbag - мішок з піском; баластний мішок; захищати мішками з піском (оточувати, закладати, одягати)
+hard - прохідне місце на болоті / трясовині; брід; причал / майданчик (для завантаження десантних засобів)
+sandwich - розташовувати(ся) в проміжках; перемішувати(ся)
+harm - шкода (завдання травми / шкоди здоров'ю людей, пошкодження майна / заподіяння шкоди навколишньому середовищу)
+sapper - сапер (сапер мінер; підривник; рядовий інженерних військ, який закладає, виявляє і знешкоджує міни)
+satellite - (штучний) супутник; сателіт
+saturate - насичувати; пригнічувати; піддавати масованому удару (силами і засобами, що перевищують можливості оборони); завдавати бомбового удару по площі із суцільним ураженням; дезорганізувати систему ППО
+sausage - (розм.) ковбаса, вітровказівник на аеродромі; аеростат спостереження; район зосередження; район овальної форми (на карті)
+saving - рятування; рятувальний; економія (напр. палива)
+say again - повторіть ще раз (термін радіообміну)
+scatter - розсіювання; розсіювати, розкидати; розбігатися, розсипатися
+scenario - план навчання; (загальний) план дій на маневрах (навчаннях)
+scout - розвідник (у т.ч. корабель або літак); (брит. іст.) винищувач розвідник; літак пошуково рятувальної служби; розвідувати; вести пошук; вести розвідку
+screen - дозор; охорона; прикриття; заслін; (маскувальний) екран; трафарет (у картографії); завіса; димова завіса; щит( мішень); маска; охороняти; прикривати завісою (маскою, екраном), екранувати; задимлювати, ставити димову завісу; перевіряти, піддавати перевірці; здійснювати відбір
+screw - (повітряний) гвинт; шуруп; нарізана частина буравчика, клуп (для нарізування зовнішньої різьби); поршень затвора; (брит.) (розм.) наглядач військової в'язниці; пригвинчувати(ся), загвинчувати(ся)
+second - направляти; відкомандировувати; виступати на підтримку (пропозиції); направляти у відрядження; (тимчасово) відряджати; ‘прикомандировувати’ (див. Інструкцію про відрядження ЗСУ)
+sector - смуга; ділянка; сектор; зона відповідальності
+secure - безпечний; надійний; добре прикріплений; захищений від нападу; убезпечувати, забезпечувати; захоплювати; охороняти; прив'язувати; закріплювати; швартувати; опановувати; займати; (розм.) зачистити
+security - заходи безпеки; бойове забезпечення; охорона; забезпечення прихованості; збереження таємниці; безпека; служба / органи безпеки; контррозвідка
+security element - підрозділ бойового забезпечення; підрозділ охорони
+harness - спорядження; ремінь безпеки; збруя, упряж
+see - бачити; спостерігати; відвідувати
+hasty - непланомірний; без попередньої підготовки (планування); з ходу; поспішний; поквапливий (пор. deliberate)
+hatch - люк; затвор; загата; шлюзова камера
+haul - трофей; доставлення; (розм.) захоплені полонені; транспортувати; (мор.) тримати(ся) проти вітру
+hazard - ризик; джерело небезпеки; небезпека (потенційне джерело шкоди); небезпечна ситуація; перешкода
+seek - шукати; здійснювати самонаведення на ціль
+seize - захоплювати, опановувати
+head - головна / передня частина  (снаряда тощо); бойова частина (ракети); висота (підйому тощо); верхня частина; капелюшок гільзи; голова колони; гальюн (вбиральня для екіпажу, історично розміщалася на носі корабля); зустрічний; тримати курс; очолювати
+heading - заголовок (бойового наказу); позиція (у номенклатурі товарів); пеленг; азимут; курс (судна / літака тощо); напрям (польоту тощо); напрямок; маршрут
+headphone - головний телефон (навушник)
+health - охорона здоров'я (охоплює фізичні і психічні елементи, які впливають на здоров’я та мають безпосереднє відношення до безпеки та гігієни праці)
+heat - тепло; теплота; нагрівання; нагрівати(ся), обігрівати
+heat - тепло; теплота; нагрівання; нагрівати(ся), обігрівати
+heat seeker - реактивний снаряд із самонаведенням за тепловим (інфрачервоним) випромінюванням цілі
+heating - нагрівання
+serve - проходити службу; служити; перебувати на службі; обслуговувати
+serviceman - спеціаліст з технічного обслуговування і поточного ремонту
+set a trap - ставити пастку
+severe damage - важкі пошкодження
+shaft - вал; вісь; (мор.) шахтний ствол, стрижень (вісь)
+shallow - дрібний, неглибокий, такий, що має невелику глибину
+sham - помилковий; показний, навчальний
+hedge - перешкода; огорожа; споруджувати перешкоди; перешкоджати
+hedgehog - (переносне) дротяне загородження; їжак
+height - висота, височина; підвищення, пагорб; зріст; висота; відносна / геометрична висота; центр високого тиску
+heliborne - що транспортується / перевозиться вертольотом; на борту вертольота; з борту вертольота; встановлений на вертольоті
+shelter - сховище; укриття; бомбосховище; притулок
+shift fire - переносити вогонь (зазвичай, по фронту)
+shift frequencies - змінювати частоти, робити маневр частотами
+shift from a known point - зміщення від відомої точки (один з методів визначення місця знаходження цілі)
+ship - корабель, судно; перевозити (вантаж)
+shoot - стріляти; фільмувати / фотографувати
+helmet - шолом, каска, шлемофон
+hide out - надавати укриття; відсидітися; переховуватися; ховатися; (розм.) намагатися не потрапляти ‘на очі’ поле зору командного складуспрятатися, знайти укриття; ховатися
+firefight - перестрілка, стрільба; вогневий бій
+high powered - високопотужний
+high precision - високоточно (радіус ураження до 10 м),
+highway - автомагістраль, автострада; шосе; битий шлях
+hijack - захоплення (літака/автомобіля); наліт; захоплювати / викрадати (літак / автомобіль); викрадати вантаж
+hike - марш пішим строєм; (розм.) тимчасове присвоєння (чергового) звання; іти пішим порядком
+hill - пагорб, узгір'я; висота
+shotgun - рушниця (довгоствольна вогнепальна зброя, призначена для утримання при стрільбі двома руками з упором приклада в плече); дробовик (стріляє дрібними сферичними кульками, шротом / дробом) / дробова рушниця; гладкоствольна рушниця, що стріляє картеччю (пізніше з'явилися нарізні рушничні стволи і кулі); (розм.) переднє сидіння в машині поруч із водієм; сидіти на передньому сидінні; стріляти з дробовика
+shoulder - узбіччя (шляху); узбочина (аеродромного покриття); плече
+shovel - лопата (саперна)
+hit - влучання / 'приліт'; вдала спроба; удар; ударяти; уражати; влучати (в ціль)
+hold - багажний відсік; затримка пуску; обороняти, утримувати (позицію); стримувати
+holder - утримувач; власник: той, хто обіймає посаду; стабілізаційний пристрій; кріпильний пристрій; обойма; патрон (електролампи)
+holding area - район / зона очікування (перед заходом на посадку)
+hole - окоп; виїмка (елемент окопу); лунка (для міни); яма; (розм.) схов; окоп, шанець; отвір
+holster - кобура (невеликий чохол, зазвичай зі шкіри, для носіння пістолета на поясі або ремені)
+homeland - (амер.) територія США (включає континентальну частину США, Аляску, Гаваї, території США та прилеглі територіальні води і повітряний простір, JP 3 28); власна, внутрішня територія держави; вітчизняний; внутрішній (про безпеку)
+horse - кінь; кіннота, кавалерія
+hostage - заручник
+hotel - (розм.) госпіталь, медичний центр
+hover - знаходитися в режимі зависання (про вертоліт) / ширяти; пересуватися на повітряній подушці
+sight - приціл; візир; поле зору; зір; вид; прицільне пристосування; візування; виявляти; спостерігати; прицілюватися; наводити; візувати; приводити до нормального бою
+signal - сигнал; розпорядження по зв'язку; знак; імпульс;  сигнальний; що пов'язаний із зв'язком; сигналізувати, подавати сигнал; передавати сигнали
+hull - корпус (танка, корабля); фюзеляж; оболонка (м'якої тари тощо); корпусний; влучити снарядом у корпус
+silver - нагороди за участь в бойових діях
+hypothermia - гіпотермія (знижена температура тіла)
+single fire - одиночний вогонь; вогонь батареї (корабля) по одній цілі
+single combat - єдиноборство; поєдинок
+siren - сирена; (сигнальний) гудок; сигнал повітряної тривоги
+identifiable - легко помітний, впізнаваний
+situation - обстановка (також  як пункт бойового наказу); ситуація
+sitz krieg - (нім.) позиційна війна
+skill - кваліфікація; виучка, майстерність
+skip - рикошетувати
+illegal - особа на нелегальному положенні, нелегал; таємний агент; нелегальний
+illumination - освітлення; (рлк.) підсвічування (цілі)
+image - зображення; відображення
+sniper - снайпер
+implode - вибухати (всередину); створювати спрямовану вибухову хвилю; обрушитися під тиском; (перен.) зазнати краху; піддаватися сильному стисненню; розриватися (про посудину з розрідженням); всебічно стискати; скластися (всередину, під зовнішнім тиском); колапсувати
+improvised - зроблений із підручних матеріалів; нетабельний
+impunity - безкарність; звільнення від збитків як від наслідку вчиненої дії; вседозволеність; звільнення від покарання; звільнення від обов'язку відшкодувати збитки
+inaccessible - неприступний, недоступний, недосяжний
+soak - вбирати(ся); просочувати(ся); (розм.) відколотити, віддути
+soldier - солдат; рядовий; військовий; воїн
+solution - розчин
+sound - звук; шум; зонд; щуп; звучати; вимірювати глибину (лотом); зондувати; грати (тривогу, відбій)
+south - південь; південна частина; зюйд
+north - північ; північний
+west - захід; західний; на захід
+shrapnel - шрапнель
+incendiaries - запалювальні речовини (боєприпаси)
+inch - дюйм (міра довжини 2,54 см); п'ядь; рухатися повільно
+incursion - раптовий напад; вторгнення; набіг
+indication - позначка; ознака; показання (приладу); радіолокаційна картина; розвідувальні дані про нумерацію частин і з'єднань; сигналізація; індикація
+indirect - опосередкований; з чужих слів
+infantry - піхота
+infect - заражати (хворобою); інфікувати комп'ютер вірусом
+infantryman - піхотинець
+infantry unit - піхотний підрозділ
+standard - стандарт (у контексті розмінування – специфікації / критерії для підвищення безпеки / ефективності протимінної діяльності); еталон;; норма; вимога; стандартний; еталонний; штатний; табельний; типовий; що відповідає встановленому зразку / перебуває на озброєнні; прапор; опорна сошка (міномета)
+static defence - позиційна оборона
+stay - (мор.) перебування, зупинка, стоянка
+stealth - скритність (технологія зниження помітності); малопомітність; потайність; непомітний; той, що неможливо виявити (радіолокатором); (рлк.) непомітний процес; (рлк.) що не виявляється; невидимий
+step - етап; східець; сходинка; приступка, підніжка; поріг; марш; крок
+sterilization - знешкодження
+stockpile - запас матеріальних засобів; арсенал; склад (у контексті протимінної діяльності, накопичені запаси вибухонебезпечних предметів, ВНП); накопичувати запас
+store - запаси; комора; склад; запасати, зберігати на складі
+strength - чисельність; чисельний склад; міцність; інтенсивність; сила; напруженість (поля)
+stress - напруга; зусилля; стрес, навантаження
+subordinate - підлеглий; підпорядкований; нижчий
+support - (тех.) опора, стійка; забезпечення (польотів); стояк; слугувати опорою; нести, сприймати навантаження; підтримувати
+suppress - придушувати (вогневі засоби / оборону противника); стримувати
+infighting - ближній бій; бій на ближній дистанції; бійка; звалище; міжусобна боротьба; внутрішнє протистояння; ближнього бою, ближньої дії
+infiltrate - проникати; просочуватися; закинути (в тил противника тощо про розвідку / термін спецслужб)
+inflatable - (мор.) надувний (напр. човен)
+inflate - накачувати
+inflict - завдавати / заподіювати (втрат)
+influence - вплив; впливати
+surgeon - (військовий) лікар; хірург
+surplus - надлишкове майно; надлишок
+ingress - проникнення; входження; (ав.) вхід (напр., у район цілі); вихід (у район, до об'єкта); шлях підходу
+initiate - ініціювати (вибух); запалювати (заряд); покласти початок
+injury - рана; тілесне ушкодження; поранити ('An enemy is at his most dangerous when he is injured, bleeding and badly mauled.', див. 'Operation Mayhem')
+sustainment - (всебічне / тилове) забезпечення в ході тривалих бойових дій
+syringe - шприц; спринцівка; пожежний насос
+system - комплекс; метод, система (технічного обслуговування); система (напр., агрегатів); установка; пристрій; комплекс; (брит.) комплекти речей, призначених для використання разом (див. sleeping system / tactical webbing system)
+t junction - перехрещення доріг у вигляді літери Т; сполучення доріг під прямим кутом
+table - таблиця; розклад
+tactical - тактичний / оперативно тактичний (НАТО); бойовий
+input - вхідні дані; вхідний сигнал; вхідна потужність; дані, що вводяться; введення / надання інформації (даних); призовний контингент; підвідний
+tank - танк; бак; резервуар; цистерна; танковий
+tanker - танкер; наливне судно; (ав.) літак заправник
+target - ціль (район, споруда, об’єкт, особа або група людей тощо); мішень, об’єкт (розвідки); (в артилерії – визначений / пронумерований район для ведення вогню); 'пряме попадання' (доповідь про результати вогневого ураження); робити мішенню; цілитися, націлювати вогонь; пристрілювати(ся)
+insignia - знаки розрізнення; відзнаки
+team - група; команда; екіпаж; розрахунок
+inspect - проводити інспектування; перевіряти; обстежувати; оглядати; спостерігати; вивчати; інспектувати
+tear gas - отруйна речовина сльозогінної дії; сльозогінний газ
+inspection - інспекція (порівняння з визначеними вимогами для визначення відповідності); огляд; перевіряння; перевірка стану (авіатехніки тощо); спостереження (з повітря); контроль (якості); дефектація (деталей); розслідування (подій); огляд (пасажирів перед вильотом)
+inspector - інспектор; контролер; приймальник; бракувальник; спостерігач (під час випробування)
+technique - спосіб, метод, захід (прийом); сукупність навичок / прийомів; методика / техніка виконання; процедура; технологія
+instability - нестійкість (атмосфери, повітря)
+test - випробування (визначення однієї чи більше характеристик відповідно до певної процедури); перевірка; контроль; тест; випробовувати; перевіряти; контролювати; тестувати
+instruct - віддавати розпорядження; давати вказівки; навчати
+thermal - термічний, тепловий
+insurgent - повстанець, бойовик, заколотник, бунтар, інсургент
+intake - приймальний впускний пристрій
+intact - у цілісності
+intensity - інтенсивність
+intent - намір, замисел
+intercept - засікання (цілі); перехоплення; здійснювати перехоплення; перехоплювати (переговори тощо)
+interchangeability - взаємозамінність (у контексті протимінної діяльності, коли елементи можна взаємно замінити без зміни з'єднаних з ними елементів)
+intercom - внутрішньолітаковий зв’язок (переговорний пристрій); зв’язок за допомогою перемовних приладів
+interdict - загороджувати
+interior - внутрішні райони країни; глибокий тил; внутрішній
+thermal signature - помітність в ІЧ діапазоні; теплова сигнатура; інфрачервона сигнатура; демаскуюча ознака в ІЧ області спектра; теплова демаскуюча ознака; теплова помітність
+thermobaric - термобаричний
+three man crew - триособовий екіпаж
+throat - вузький прохід / отвір; критичний переріз / звужувальна частина (сопла); (мор.) п'ятка (гафеля)
+transit - транзит
+transition - перехід
+internment - інтернування
+interpreter - (усний) перекладач
+interrogation - допит; опитування; запит даних
+intersection - перехрещення; перетин; перекриття; розгалуження; точка перетину
+interval - інтервал, проміжок часу; перерва; пауза; відстань; діапазон
+invade - вторгатися; захоплювати, оволодівати силою, окупувати
+invaders - окупанти, загарбники
+invasion - вторгнення, напад; окупація
+invest - блокувати, оточувати
+investigation - дізнавання; розслідування (подій тощо); дослідження
+invincible - непереможний
+invisible - невидимий; прихований
+irregular - солдат нерегулярної армії; (у мн.) нерегулярна армія
+irrepairable - невідновний; не підлягає ремонту
+island - острів; анклав; острівний
+isolated - ізольований; відокремлений; відірваний (від чого небудь);; такий, що лежить окремо
+item - одиниця; найменування; предмет матеріально технічного постачання; товар
+jack up - (розм.) бунт; непокора, неслухняність
+jacket - (тех.) сорочка (напр. охолодження); куртка; чохол; кожух; обшивка; сорочка; оболонка; обшивати; покривати, облицьовувати
+jam - (радіотехнічні) перешкоди / глушіння передач; перешкода, затор, затримка руху; створювати активні (радіо)перешкоди  / радіотехнічні перешкоди (радіо  та радіолокаційним станціям); глушити / заглушати (радіопередачу); заглушувати (забивати) станцію; викликати затримку; заклинювати; створювати ‘корок’ (на дорозі); (розм.) скасовувати
+jammer - станція активного радіоелектронного придушення, станція активних радіоперешкод, генератор перешкод; (мор.) пригнічувач зв'язку, передавач навмисних перешкод, глушник
+jamproof - завадостійкий; безвідмовний, без затримок
+jeep - джип (за звучанням початкових букв general purpose / GP загального призначення); ¼ т автомобіль загального призначення; (легкий) літак зв'язку; літак розвідник; (розм.) ескортний авіаносець; (розм.) новобранець
+jet - реактивний літак; реактивний струмінь; форсунка, жиклер; сопло; реактивний
+jettison - позбутися; відкидати; скидати (напр. вантаж, паливо і т. д. з літака для його полегшення)
+jolly roger - (розм.) піратський прапор
+jump in - (розм.) вриватися, вклинюватися
+jumper - парашутист; (тех.) пробійник; еластичне з'єднання електропроводів; з'єднувач (гнучкий кабельний); (розм.) інструктор фізичної підготовки
+jungle - джунглі; хащі, зарості
+junk - бойовий брухт; (розм.) зенітний вогонь; знімати з озброєння
+trap - пастка, капкан; діафрагма реактивного двигуна; заманювати в пастку; ставити міни пастки
+trauma - травма
+kamikaze - камікадзе (японський льотчик смертник періоду 2СВ); літальний апарат (БПЛА), призначенням якого є ураження цілі шляхом самознищення; літак, пілотований льотчиком смертником; готовність іти на ризик не турбуючись про безпеку
+keel - кіль; (розм.) борознити море; перевертати (корабель) кілем вгору
+time - час; раз
+trench - траншея, окоп, шанець; рів; траншейний; окопний
+dugout - притулок; бліндаж; землянка (в траншеї); укриття; (розм.) офіцер, призваний із запасу
+keeper - стопор; хомутик; сутичка петля на гарматних стропах
+kerosene - гас; керосин
+key - ключ; код; кнопка; ключовий, основний; провідний; вирішальний; клавішний; кнопковий; використовувати ключ; здійснювати маніпуляцію; здійснювати стрибкоподібну модуляцію фази квазігармонійного сигналу; поєднувати реперні знаки; використовувати список позначок
+kill - вбивство; знищення (напр. противника); знищувати (напр. противника); убивати; (розм.) закобзонити / відкобзонити; ліквідовувати
+tripod - станок трипод (для кріплення зброї, РЛС тощо); станина тринога; кулеметний триножний станок; лафет тринога
+topography - топографія
+troops - війська (сили)
+troop carrier - транспортер для перевезення особового складу
+tracer - трасер; трасувальна / трасуюча куля; трасувальний боєприпас (див. tracer ammunition); трасуючий склад; траєкторія, що світиться; запит за раніше надісланим документом; перевірка виконання документа; розвідувальний підрозділ для оцінювання результатів завданого удару; (тех.) детектор; дефектоскоп
+track - колія; ширина колії; слід; дорога; стежка; курс; траєкторія; гусениця (напр. танка); шлях / траса / маршрут (напр. на екрані індикатора); позначення / відмітка цілі (на екрані індикатора); доріжка / маршрут польоту (на карті); лінія шляху; (рлк.) проекція курсу; трек; напрямна рейка; (мор.) курс, шлях, щогловий леєр; (розм.) смужка (напр. на погоні); pl гусеничний хід; вистежувати; намічати курс; прокладати колію; стежити / слідкувати (за ціллю); супроводжувати (ціль / рухомий об'єкт); здійснювати проводку цілі
+tracked - гусеничний; на гусеничному ходу
+tunnel - тунель; підземний хід; штольня; мінна галерея
+search radar - РЛС виявлення цілі; (рлк.) радіолокаційна станція пошуку
+kit - набір / комплект (інструментів, приладів, деталей); бойова викладка; (особисте) обмундирування і спорядження
+knot - (мор.) вузол (одиниця швидкості = 1,85 км на годину)
+ladder - величина шкали (при пристрілюванні зброї); драбина (приставна); надставка борту (кузова)
+land - суша, земля; поле нарізу (ствола); сухопутний, наземний, висаджувати(ся) на берег; приземлятися, робити посадку
+landmark - (наземний) орієнтир; маркувальний знак; орієнтир на місцевості; місцевий предмет; , межовий знак, віха; помітний об’єкт місцевості (у контексті протимінної діяльності - орієнтир поза межами небезпечного району, який можна використовувати для орієнтації під час руху до реперів; у випадку виявленого у ході геодезичної розвідки місця, такого як тріангуляційний пункт - їх також називають геодезичними пунктами); (мор.) береговий орієнтир, береговий знак
+laser - лазер, оптичний квантовий генератор; лазерний
+latch - фіксатор; стопор; кулачок
+turbine - турбіна, вузол турбіни
+turn - розворот, розвертання; кут розвороту; віраж; розвертатися, повертати
+training - навчальна підготовка, тренування; наведення (зброї на ціль, антени тощо), націлювання
+train - обоз (що супроводжує військові сили); серія (авіаційних бомб); навчати; націлювати (зброю) (`Sergeant Casey Joyce had his M 16 trained on the growing crowd to the north.` - Bowden, Mark. Black Hawk Down - p. 18). Grove Atlantic. Kindle Edition. -  ; направляти (антену)
+trains - тили; частини та підрозділи тилу; служби тилу
+trajectory - траєкторія; лінія руху
+type - клас корабля
+ukrainian armed forces - Збройні Сили України
+unblocking - деблокування
+latrine - відхоже місце; гальюн
+launch - запуск (ракети тощо); пуск; старт; скидання; вистрілювання; катапультування; запускати (супутник, ракету тощо); здійснювати (напад тощо); починати (напр. серійне виробництво); кидати, метати; випускати, відправляти; катапультувати; спускати на воду; пускати в хід
+launcher - пускова установка; стартова споруда; стартова позиція; ракета носій; гранатомет; катапульта; метальна установка; бомбомет
+law - закон, правило
+lay - скидати (авіабомби); ставити (димову завісу з літака); прокладати (курс)
+lay down - закладати / закласти (напр. корабель); (ав.) складати (напр. план польоту); формулювати (правило); відмовлятися від посади
+layer - (арт.) навідник гармати; (тех.) настилка; установник (мін); шар; розкладчик; розріз (креслення)
+leader - лідер; командир (підрозділу ЛА, відділення, взводу); ведучий літак; (мор.) передній мателот, головний (провідний) корабель
+leaflet - листівка
+leak - витік, просочення (у т. ч. інформації); давати течу
+lease - оренда
+legion - легіон (римський легіон - основне військове формування в давньоримській армії; іноземний легіон — частини, сформовані з іноземних громадян тощо)
+unearth - викопувати / вирити із землі; виявити; виявляти
+lever - перемикач (автоматичної зброї); руків`я; вага (важіль); винос / виліт (стріли крана); плече (важеля, моменту)
+liberty - звільнення з розташування частини; час, вільний від виконання службових обов’язків; короткочасна відпустка
+unfired - нестріляний
+licence - дозвіл; документ; свідоцтво; посвідчення, посвідка; допуск; ліцензія (напр. на виробництво літального апарата) / ліцензія (у контексті протимінної діяльності, свідоцтво придатності об’єкта, напр. на проведення вибухів певної граничної потужності, зберігання певних типів / кількостей боєприпасів)
+life - термін служби (машини, приладу тощо), ресурс; довговічність; тривалість роботи
+light - вогонь (напр. аеронавігаційний); лампа; світло, освітлення; освітлювати, світити
+lighter - ліхтер
+lighting - світлосигнальне устаткування; система (аеронавігаційних) вогнів; запалювання (палива)
+lightning - блискавка
+limb - (арт.) лімб (коло з поділками); лімб (у кутомірних приладах / геодезичних інструментax); диск (сонця); лімб (частина людського тіла); ланка; деталь
+limit - межа; граничний розмір; ліміт; обмежувати
+line - лінія (напр. фронту / траншей); (оборонний) рубіж; бойовий порядок (в один / два ешелони); (розгорнутий) стрій; бойова лінія (напр. бойовий порядок у наступі, див. БССВ); лінія зв'язку (дротовий зв'язок); дріт, кабель; трубопровід, магістраль; крива; (мор.) лин, мотузка, шнур; (розм.) вигадка, невірна інформація; вишиковувати(ся); простягатися вздовж; підкладати; обшивати, облицьовувати
+link - сполучення; лінія / напрямок (радіо)зв'язку; ланка (патронної стрічки); лінія зв’язку; канал зв’язку; клемна перемичка; з'єднання; передавальний важіль; шарнір; з'єднувати; сполучати; встановлювати зв'язки
+uniform - військова форма; обмундирування, однострій; однорідний
+unit cohesion - злагодженість бойового підрозділу / бойове злагодження
+unit - підрозділ; частина; відділ; секція; елемент; прилад; пристрій; вузол; агрегат; комплекс блок; установка (система озброєння тощо); апарат; комплект (обладнання тощо); компонент; ланка; модуль; одиниця (фізичної величини); одиниця виміру / вимірювання
+unlawful - що суперечить законам / правилам
+unload - розряджати; розвантажувати
+live - в реальному масштабі часу; приєднаний до джерела (електро)живлення; зведений (про курок); бойовий (про патрон)
+unscathed - неушкоджений; ‘без єдиної подряпини’
+unsighted - неприцільний; що не потрапив у поле зору; непомічений; що не має прицілу; не приведений до нормального бою
+upstream - проти течії; вгору за течією
+urban area - район міської забудови
+location - місцезнаходження; місце розташування; розташування; дислокація
+lock - запірний клин (у кулеметі); ударний механізм затвора; затискний пристрій; замок; контрення; стопор; фіксатор; ставити на запобіжник
+log - реєстрація; протокол; журнал реєстрацій; журнал бойових дій; (мор.) лаг; колода; реєструвати
+valve - клапан, вентиль; кран; заслінка; золотник; стулка; випускати через клапан
+vehicle - транспортний засіб; засіб пересування; машина (автомобіль, танк, САУ, транспортер, літальний апарат тощо); літак / ракета носій; десантно висадковий засіб (десантно висаджувальний засіб); засіб доставки / доставлення (напр. зброї до цілі)
+loiter - (розм.) здійснювати політ у зоні очікування на вказаній висоті
+long range - далекобійний; дальньої дії
+loop - петля; мертва петля
+looter - грабіжник; мародер
+low - на малих висотах; невисокий; слабкий; негучний (про голос)
+low flying - польоти на малих висотах
+lubrication - змащування
+machine - машина; механізм; верстат; установка; механічно обробляти
+magazine - сховище / склад (у контексті протимінної діяльності – будівля / споруда / контейнер для зберігання вибухових матеріалів / речовин)
+magnetic - магнітний
+victim - жертва / постраждала особа (особи, які зазнали фізичної, емоційної і психологічної травми, економічних втрат або порушення їх основних прав через дії або бездіяльність, пов’язану з використанням мін / присутністю ВЗВ)
+victory - перемога
+visibility - видимість; видність, помітність; дальність видимості
+wait - вистежування; засідка; очікування; ‘залишайтесь на прийомі’ (термін радіообміну)
+wall - стінка; переділ, перегородка; екран
+war - війна; бойові дії; воєнний, військовий; воювати
+war crime - воєнний злочин (порушення законів та звичаїв війни, не плутати з 'військові злочини' порушення порядку проходження військової служби безвідносно наявності чи відсутності війни)
+war of attrition - війна на виснаження
+warfighter - воїн; учасник бойових дій / військових конфліктів
+warhead - бойова частина (БЧ) (частина боєприпасу, призначена для безпосереднього ураження цілі); боєголовка; бойове зарядне відділення (торпеди)
+warning - попередження (про наближення невпізнаних літаків тощо), оповіщення; попереджувальний сигнал; огороджувальний знак; сигналізація; (рлк.) виявлення
+water - водопостачання (пункт бойового документу)
+weapon - зброя; озброєння; засіб ураження; бойовий засіб; засіб захисту; оснащувати зброєю, озброювати
+management - управління (військовим господарством); адміністрація
+maneuver - маневр; тактичне навчання; маневрування; маневрувати, проводити маневри; здійснювати / виконувати маневр
+maneuverability - характеристики маневреності; повороткість; маневроздатність; маневрені ТТХ; маневреність
+manhole - люк; оглядовий отвір / колодязь; пролаз
+manufacturer - виробник; фірма виробник; підприємство виробник; завод постачальник
+map - карта; наносити на карту; складати карту; виконувати картографічне знімання місцевості
+margin - рамка / поле (карти); запас, резерв
+maritime - морський; приморський
+marked map - карта з нанесеною обстановкою (`піднята карта`)
+marker - (вказівна) віха; мітка; дорожній маяк; орієнтир; сигнал полотнищами; сигнальний прапорець; покажчик; маркувальний кілок; маркерний (радіо)маяк; радіовідмітник; (радіо)маркер; знак огорожі (мінного поля); установник покажчиків мін / маркування мін (проходів в мінному полі); позначник, калібратор; знак позначення
+marksman - (влучний) стрілець (He was the best marksman in the chalk. Bowden, Mark. Black Hawk Down p. 40)
+martial law - воєнний стан; режим воєнного стану
+mask - маска; протигаз; укриття від спостереження; маскувати, приховувати; одягати маску
+masking - застосування маски; використання маски з (фото)резисту для рентгенівської / електронної / іонно променевої літографії; використання шаблону / трафарету (напр. для нанесення покриття); застосування захисного екрана; використання кодової маски (напр. у перетворювачах); (рлк.) програмоване обмеження сектора огляду РЛС (з метою усунення перешкод приймачам або запобігання використанню сигналів РЛС противником)
+wire - дріт; провід; (електронне) повідомлення; дротяний; дротяні загородження; з'єднувати дротом
+materiel - (бойова) техніка; матеріальні засоби; озброєння та майно (Hercs were flying a relay of further men and matérielfrom Senegal. ‘Operation Mayhem’, Heaney with Lewis, 2014)
+wireless - радіо; радіограма; бездротовий
+meal - їжа; (одноразове) прийняття їжі; асортимент продуктів для одноразового прийняття їжі
+withstand - витримувати (дію чого небудь / несприятливі умови середовища; піддаватися дії тиску, руху тощо); вистоювати (вистояти); витерпіти (переносити)
+work - робота; (розм.) завдання; обробляти, приводити в дію
+wound - рана; поранення; поранити
+accomplish a mission - виконувати (бойове) завдання
+mechanism - механізм, пристрій
+medical equipment - санітарне обладнання
+medical facility - медична установа
+accurate fire - влучний / прицільний вогонь
+medical planning - військово медичне планування
+achieve a breakthrough - здійснити прорив; (дипл.) домогтися прориву
+melting - танення; плавлення
+achieve fire superiority - створити вогневу перевагу (за точністю та обсягом)
+member - член; держава учасник
+mercs - найманці
+adjust fire - корегувати вогонь (варіант написання коригувати)
+mercenary - найманець
+adjustable - що допускає регулювання
+mess - їдальня; кухня їдальня; кают компанія (на кораблі)
+administer first aid - надавати першу допомогу
+aerial recce - (розм.) повітряна розвідка
+method - метод; методика
+mg emplacement - кулеметний окоп
+microwave - сантиметрова електромагнітна хвиля (діапазон надвисоких частот)
+military - військовий (що стосується війська, військовослужбовця); воєнний (що стосується війни, пов’язаний з війною) (паралельне вживання союз, суд, наука, стратегія, тактика, теорія, мистецтво тощо)
+militia - міліція; (народне) ополчення
+mine - міна, фугас; шахта; підкоп; мінувати; робити підкоп; міна (у контексті протимінної діяльності бойовий припас для установки під землею, на землі або поруч з поверхнею з метою вибуху внаслідок присутності, наближення або контакту з особою або транспортним засобом)
+aid station - медичний пункт; пункт медичної допомоги
+airburst - повітряний вибух (в т.ч. ядерний); вибух у повітрі
+ally - союзник; вступати/об'єднувати (у союз)
+almost certainly - майже напевно (про розвідку / термін спецслужб)
+amass - концентрувати
+ambulance - санітарна машина, машина швидкої допомоги (засіб санітарного транспорту); польовий шпиталь (санітарний загін)
+ambush - засідка; напад із засідки; бути в засідці, нападати із засідки
+ambush position - засідка
+anti personnel - протипіхотний, для ураження живої сили
+minimum - мінімальна кількість; нижча межа; найменша дозволена швидкість руху; найменший ступінь (чогось); (ав.) метеомінімум; мінімум погоди; метеорологічний мінімум; мінімум (обмеження для злетів і посадок за висотою прийняття рішення або за висотою нижньої межі хмар та видимості на ЗПС)
+mining - мінування; мінна справа
+antipersonnel minefield - протипіхотне мінне поле
+antitank mine - протитанкова міна
+antitank minefield - протитанкове мінне поле
+approach - підступ; заходження на посадку; підхід (напр. до певної зони); наближення (напр. до критичних умов польоту); зближення (напр. літальних апаратів у польоті); наближатися, підходити; заходити на посадку
+area defense - позиційна оборона; оборона району (щоб позбавити противника доступу до визначеної території); територіальна оборона
+arm a mine - переводити в бойове положення (вогнепальну зброю, міну тощо); встановлювати міну на ‘вибух’ (напр. видаляти запобіжні пристрої)
+armor - броня; танки; бронетанкові війська; бронетанковий
+arsenal - арсенал; склад зброї; зброя
+assault - штурм, напад, атака, удар (як вирішальний період бою); штурмувати, іти на приступ
+assault force - десантне з'єднання або сили десанту; штурмові сили
+assault from ambush - атака із засідки
+assault landing - висадка десанту в умовах протидії противника; бій за висадку (викидання) десанту;
+assign a mission - ставити завдання
+assignment - завдання; призначення (на посаду); зарахування (до штату); виділення (сил та засобів); надання
+assistant machine gunner - другий номер кулеметного розрахунку
+missing - зниклі безвісти (the); відсутні
+assume a formation - приймати бойовий порядок / приймати похідний порядок / вишикуватися
+assume a position - займати позицію / зайняти позицію
+at opposition - ПТ оборона
+attack - атака; напад; удар; наступальний бій; штурм (перехід десантних катерів і висаджувальних засобів від вихідної лінії до берега); (тех.) травлення металу; нападати, атакувати; уражати; (розм.) відпрацювати (по будь кому / чому - про артилерію, авіацію); наступати, завдавати удару; штурмовий, ударний / наступальний
+attack drone - ударний безпілотник
+attack plan - план наступу
+audacity - сміливість; відвага; хоробрість; мужність
+authenticate - засвідчте код станції (термін радіообміну)
+avenue of approach - напрямок підходу; шлях підходу; підступ
+avenue of retreat - шлях відходу
+avenues of approach - шляхи / підступи / напрямки підходу
+battlespace - бойовий простір (середовище, чинники, та умови, що впливають на виконання завдання земна і водна поверхня, повітряний, космічний, інформаційний простір; свої війська та сили противника тощо)
+beach - пункт висадки (морського) десанту (на необладнаному березі); берегова смуга району висадки морського десанту; (необладнаний) берег (річки / моря); пологий / положистий берег, узмор'я, обмілина, берег між лініями припливу і відпливу; підходити впритул до берега для висадки; вивантажуватися / висаджувати на берег; направити до берега; (розм.) `списувати на берег` / бути у відставці (про плавсклад)
+beach obstacle - (протидесантне) берегове загородження; прибережне загородження
+beacon - маяк( відповідач); бакан (бакен); (сигнальний) буй; привідна (радіо) станція; світломаяк, сигнальна вежа; сигнальний вогонь; освітлювати сигнальними вогнями
+mobile - рухомий; самохідний; мобільний; пересувний
+mobilization - мобілізація
+model - зразок; модель
+modification - модифікація; зміна; доопрацювання; варіант
+modular - модульний; такий, що складається з вільно замінних частин; блочно модульного виконання; розбірний; змінний (напр. вузол на установці)
+cocktail - (розм.) запальна суміш; пляшка із запальною сумішшю
+monitor - спостерігач (напр. ОБСЄ); дозиметрист; прилад радіаційної розвідки; прилад контролю; монітор; блок контролю, блок керування; контролювати; здійснювати поточний контроль / моніторинг; відслідковувати
+morphine - морфій
+beam - промінь (напр. випромінювання антени); бімс; балка; пучок променів; радіосигнал (для літака); радіус дії (мікрофона, гучномовця); траверз; кронштейн; (мор.) брус, ширина судна, шток якоря
+beam rider - реактивний снаряд із наведенням за радіопроменем
+bearing - азимут; пеленг; кут (курсовий); курс; напрям; підшипник; вальниця; вкладка; букса; гребінь спускового гачка; утримувальна / опорна поверхня; опора;  опорна площина; (мор.) ленг, румб, орієнтування; опорний, утримувальний
+beaten - розбитий; переможений; обстрілюваний; кований (метал); уражувана (ділянка місцевості тощо); прокладений (шлях)
+beaten track - наїжджений шлях / стежка; торна дорога
+become damp - відволожуватися
+motion - рух
+belt - ремінь; пояс, пас; кулеметна стрічка; смуга / зона; лінія / ряд дротяних загороджень
+beret - берет
+mechanized - мотопіхотний (механізований)
+mountain - гора; гірський
+mounted - на засобах пересування; кінний / на коні
+movement - пересування; перевезення; передислокація; марш; маневр; рух, переміщення
+mud - бруд; сльота; твань, мул; (розм.) вогонь зенітної артилерії
+munition - бойовий припас (пристрій, начинений вибуховими речовинами, порохами, піротехнічними матеріалами, запалювальним / капсульним складом / ЯБХ матеріалом, Публікація ОЗС 6 НАТО, AAP 6)
+biological - біологічний; бактеріологічний
+biological attack - напад із застосуванням бойових біологічних засобів, біологічна атака
+bipod - сошка; двонога; лафет двонога; двонога міномета; підпора / підставка (для стрільби, напр. з гвинтівки)
+bladder - еластичний / гнучкий резервуар; міхур (для води); водяний міхур
+blade - ніж; лопатка (турбіни, компресора); лезо, клинок, лопать (весла, пропелера, повітряного гвинта)
+blank - порожнє / вільне місце; біле яблуко мішені; холостий (заряд), незаповнений (бланк, документ)
+blank ammunition - холості боєприпаси
+blanket - поверхневий шар, покрив; вкривати, заглушувати (радіопередачу, шум), задимлювати
+musket proof - не пробивається кулями з мушкета
+blast - вибух, ударна хвиля; заряд (для вибуху), сильний порив вітру; дульна хвиля; (розм.) відпрацювати (по будь кому про артилерію)
+muzzle - дульний зріз; дуло; жерло; дульний
+blast effect - дія вибухової (ударної) хвилі
+muzzle brake - дульне гальмо (компенсатор)
+zephyr - зефір, легкий вітер
+blast overpressure - надлишковий тиск в ударній хвилі
+zero - нуль, нульова точка; прицілюватися; пристрілювати(ся); приводити до нормального бою; встановлювати (прилад) на нуль
+zeroing - приведення до нормального бою (точка прицілювання на цілі збігається з точкою влучення)
+blast wave - вибухова хвиля, ударна хвиля
+zeroize - ставити на нуль
+blasting cap - капсуль детонатор (КД)
+zone - район; смуга; зона; смуга (ураження тощо); зона / смуга (дротяних загороджень); шкала дальностей; ділянка; діапазон
+bleach - вибілювати, знебарвлювати
+bleed - кровоточити; стікати кров'ю; ('An enemy is at his most dangerous when he is injured, bleeding and badly mauled.', див. 'Operation Mayhem'); пускати кров; випускати (напр. зайву рідину)
+blind - засліплювати; затемнювати
+blinding - засліплювальної дії
+blitz - авіаналіт
+block - клин (затвору); (мор.) гальмівна колодка, блок, шків
+block an attack - зупиняти атаку (напр. перегороджувати шлях наступаючим)
+blockade - блокада; затор; блокувати; оточувати; ізолювати
+blockage - засмічення, забруднення; блокування
+blood type - група крові
+bluff - сторчова скеля; обрив; крутий берег; прибережні височини
+blue forces - сили 'синіх' (війська дружніх країн на навчаннях НАТО)
+blue force tracking - ідентифікація дружніх сил ‘свій чужий’; відстеження союзних сил; (ав.) супровід союзних військ / ‘синіх’ / ‘блакитних сил’
+blunt trauma - тупа травма (пошкодження, завдане тупим предметом)
+body bag - мішок для зберігання і транспортування тіла загиблого
+bolt action - поворотний поздовжньо ковзний затвор
+bolt carrier - остов затвора; затворна рама
+yard - (міра довжини) ярд (=3 футам, 0,914 м); сортувальна станція; морський арсенал; верф; портові майстерні / склади; склад / майданчик (напр. для відкритого зберігання або робіт)
+yawn - щілина
+bolt carrier assembly - затворна рама (що складається з низки інших конструктивних елементів)
+pacify - утихомирювати; встановлювати контроль (над районом)
+bolt guide - напрямна затвора
+pack - спорядження, викладка; ранець; рюкзак; (тех.) набивка (сальника); вузол, блок, агрегат; тюк; пакет; в'юк; пакування; пакувати(ся), укладати речі; носити при собі (зброю тощо); упаковувати, укладати; консервувати; ущільнювати
+bolt up - скріплювати болтом
+padding - хибні вставні слова та фрази шифру (для введення противника в оману); м'яка оббивка; обшивка; підкладання подушки
+bomb attack - вибух бомби (міни); напад із застосуванням бомб або мін (фугасів); бомбардування; бомбардувальний наліт; бомбовий удар
+bomb detector - бомбошукач
+bomb proof - такий, що не пробивається бомбами; непробивний бомбами; бомбостійкий; бомбонепробивний
+bomb shelter - бомбосховище
+bomb squad - група з розмінування; команда вибухотехніків / саперів; команда знешкодження вибухонебезпечних об'єктів / бомб; вибухотехнічний загін
+bombard - бомбардувати; (безперервно) атакувати / обстрілювати (бомбами, снарядами, ракетами тощо); (розм.) відпрацювати (про артилерію, особливо шквальним вогнем якщо йдеться про РСЗВ або щільний вогонь ствольної артилерії)
+bombardment - бомбардування; бомбовий удар; наліт бомбардувальної авіації; бомбардувальний
+bomblet - суббоєприпас; бойовий елемент касетних боєприпасів (див. submunition); (мн.) вражальні елементи
+boot camp - навчальний табір новобранців; курс молодого бійця (ВМС США)
+border - кордон; рамка листа карти; край; бордюр (‘поребрик’); межувати
+border control - прикордонний контроль
+border disputes - прикордонні суперечки
+bore - канал ствола; калібр; бурова свердловина, свердлити, розточувати
+bore cleaner - розчин для чистки стволів
+bore obstruction - перешкода руху снаряда в каналі ствола
+boresight - (нульова) лінія візування; лінія прицілювання; візир для прямого наведення; візир для узгодження осей візування і каналу ствола; візування; (мор.) трубка холодного пристрілювання; (ав.) оптичне юстування; рівносигнальний напрямок, напрямок максимуму діаграми спрямованості (антени); вісь сканування; електрична вісь (спрямованої) антени; лінія радіовидимості; опорний напрямок; пеленгаційний напрямок; вивіряти / перевіряти нульову лінію прицілювання наведенням через канал ствола; наводити через канал ствола; суміщати електричну й оптичну вісі; поєднувати з опорним напрямком; (мор.) здійснювати холодну пристрілку
+bottom - дно, днище (судна), нижня частина; підводна частина корабля; упиратися
+bottleneck - закупорка
+bound - межа, стрибок, перебіжка, кидок, перекат, рикошет, (мн.) рубежі регулювання; обмежений; служити кордоном
+boundary - лінія розмежування; межа, кордон; границя; прикордонний; розмежувальний
+bounty - винагорода (напр. за виявлення або захоплення дезертира або особи, яка перебуває в розшуку)
+box in - обступати / оточувати з усіх боків; ізолювати / оточувати вогнем; відрізати облямовуючим загороджувальним вогнем
+bracketing - вилка; з'єднувальний кутник; (арт.) захоплення цілі у вилку (виделку); (розм.) здогадки
+breach - прохід (у мінному полі), прорив; порушення; проріз прицілу; проривати (лінію оборони), пробивати, проломлювати; порушувати (угоду тощо)
+breach a minefield - проробляти прохід у мінному полі
+breach defenses - проривати оборону
+breaching - пророблення проходів (в мінному полі / інженерних загородженнях); подолання загороджень / перешкод; пробивання отворів
+bridge - міст; ходовий місток, капітанський місток (на кораблі); перемичка ствольної коробки; наводити / будувати міст
+bridge company - мостова рота; рота мостового парку
+bridgehead - передмостова позиція; передмостове укріплення; передмостовий плацдарм; плацдарм на території противника, утримуваний до підходу основних сил; завойована позиція (для подальших досліджень, розробок); (ав.) кабіна (телескопічного трапа); плацдарм попереду мінного поля
+bridging - наведення (спорудження / збірка) моста
+brief - інструктаж, брифінг; зведення (документ); короткий виклад; інструктувати
+brigade artillery - артилерія бригади
+parachute - парашут; парашутний; спускатися / скидати з парашутом
+browning link - сережка Браунінга
+passage - проходження; проїзд, перехід; переїзд; перевал, переправа; право проходу
+bruise - синець
+passive - пасивні (дії або технічні засоби) (не генерують енергію, що піддається виявленню)
+buddy care - взаємодопомога (Кисельов)
+password - перепустка; пароль
+buckshot - крупний дріб, картеч
+patch - нашивка; оболонка кулі
+buckling - викривлення; випинання; по довжній вигин; прогинання; втрата (поздовжньої) стійкості
+path - траєкторія, стежка, прохід; шлях; курс; маршрут (напр. польоту); траса
+buddy system - система взаємодопомоги (дві особи діють разом, щоб допомагати один одному)
+patrol - патруль (сухопутний / морський / повітряний розвідка, здійснення диверсій, ведення дій на виснаження / зачищення; бойова охорона); дозор; рухливий (сторожовий) пост; (дрібний) розвідувальний підрозділ (група, напр. пошукова); патрулювання, баражування (напр. ЛА); патрульний, дозорний; сторожовий; охороняти; патрулювати, баражувати; вести розвідку (пошук); діяти дозорами
+bulletproof - куленепробивний, кулезахисний
+pay - грошове забезпечення
+bullet wound - кульове поранення
+peacekeeper - учасник операції з підтримання миру
+buried mine - міна, що закладається в лунку; заглиблена міна (на морському дні)
+peacetime - мирний час
+buried minefield - мінне поле з мінами, що закладаються в лунки
+penetrate - проникати; пронизувати; проходити крізь; проривати; заглиблюватися (у щось)
+burn - опік; горіти, спалювати, обпікати(ся)
+people - народ (населення країни)
+burst - вибух; черга (автоматичного вогню); спалах; розрив (боєприпаса тощо); швидкодійний; вибухати; висаджувати в повітря; прориватися
+perimeter - периметр; зовнішня межа (укріплення) (I’d sought clearance to run the perimeter of the airbase. ‘Operation Mayhem’, Heaney with Lewis, 2014); передній край кругової оборони; круговий
+burst fire - вогонь чергами; спалахувати (запалюватися)
+burst out - вибухнути, спалахнути (про війну, епідемію тощо)
+bury a mine - встановлювати міну в лунку
+bustle - відсік башти (танка тощо)
+permanent base - пункт постійної дислокації
+personal protection - самооборона
+personnel - особовий склад, персонал, штат
+petrol - бензин; газолін; моторне паливо; бензиновий
+cable cutter - кабельний різак
+phase - стадія, етап; фаза; ділянка; розділяти на етапи
+cadet - курсант військового училища, кадет
+photograph - фотографія, (аеро)знімок
+physical fitness - фізична підготовка; придатність
+cannibalize - використовувати деталі та агрегати з несправних машин
+cannon artillery - ствольна артилерія
+pick off - (розм.) знімати; зняти (вартового тощо; стріляти в одного з групи, ретельно прицілюючись на відстані – ‘солдатів знімали снайпери’)
+cannon fire - гарматний вогонь
+pier - підпора; (мор.) пірс, причал, мол, хвилелом, дамба
+cannon fodder - `гарматне м'ясо`
+pierce - пробивати (отвір), проникати; прориватися, проходити (крізь щось)
+canteen - фляга, фляжка; польова кухня; військова їдальня; похідний ящик з речами вжитку в кухні та їдальні
+pilot - пілот; льотчик; лоцман; лоцманське судно; попереднє / пробне оцінювання (пілотний проєкт); (мор.) рульовий, штурман; допоміжний клапан (механізм); дослідний; лоцманський; штурманський; керувати, вести, правити; пілотувати
+cap - капсуль, пістон, капсуль детонатор; ковпачок (напр. капсуля); кришка потиличника; кепка (головний убір); запобіжна окантовка; кришка (головки шатуна, горловини паливного бака); заглушка, пробка; кінцевий обтічник; (балістичний / бронебійний тощо) наконечник (напр. снаряда); грибок клапана; тарілка клапана; авіаційне прикриття; (розм. мор.) командир; кептен (капітан 1 рангу), вставляти капсуль (пістон)
+pill - (розм.) обстрілювати
+cargo helicopter - транспортний / вантажний вертоліт
+pin - штифт; чека; штир; пробійник; палець; шворінь, шип; стрижень; кнопка; значок
+pin down - (розм.) притиснути до землі
+pistol - пістолет; ракетниця; револьвер
+pit - окремий окоп / шанець; бліндаж; (гарматний) котлован; заглиблення, шахта; пастка;
+plan - план; задум; намір; планувати
+plane - літак; крило (літака); площина; проекція; пласка поверхня; планерувати; ширяти
+plant - агрегат; обладнання; завод; майстерня; встановлювати (у т. ч. міни); займати позицію
+plate carrier - `плитоноска` (зовнішня несуча частина, у поєднанні з внутрішніми броньованими пластинами є бронежилетом); плитонос (чохол для бронежилета – під бронеплити)
+coating - покриття
+comb - гребінь приклада; прочісувати вогнем
+combined arms - об'єднані роди військ; загальновійськовий
+commando - десантно диверсійний загін, боєць десантно диверсійного загону; (брит. іст.) десантно диверсійні війська морської піхоти командос; солдат (сержант, офіцер) десантно диверсійних військ командос
+commission - присвоєння (першого) офіцерського звання; наказ про присвоєння офіцерського звання; комісія; плавання; присвоювати (первинне) офіцерське звання; вводити в дію (стрій)
+commit - вводити в бій; залучати; скоювати
+complex - комплекс (напр. стартовий); складна комбінація, суміш; складне ціле; комплексний; складний
+component - компонент, складова частина
+composite artillery battalion - змішаний артилерійський дивізіон
+concussion - примус; контузія
+condition - умова; стан, ситуація; обумовлювати
+cone of fire - конус вогню (умовний конус, утворений траєкторіями польоту куль у кожній кулеметній черзі вібрація зброї, характеристики боєприпасів і атмосферні умови впливають на формування конуса вогню)
+contact - контакт, зв'язок; зіткнення / бій; (рлк.) виявлення; вступати у контакт (зіткнення); встановлювати зв'язок; ‘встановити зв’язок з…’ (термін радіообміну)
+contact with the enemy - контакт з противником; бойове зіткнення, вогневий контакт
+contain - сковувати; стримувати; зупиняти
+counter sabotage - контрдиверсійні дії, протидиверсійні заходи
+counterbattery fire - вогонь на придушення артилерії противника; протибатарейний вогонь
+crewman - номер розрахунку; (амер.) член команди (корабля); член екіпажу (літака); (арт.) гарматний номер; (косм.) молодший спеціаліст; ракетник; номер бойового розрахунку
+crewmember - член екіпажу (корабля тощо); номер розрахунку; номер бойового розрахунку
+crewmen - (амер.) номери розрахунку; члени команди (корабля); члени екіпажу (літака)
+crossroad - перехрестя (доріг); роздоріжжя
+chill - холод; прохолодний, холодний; охолоджувати
+chlorine - хлор; хлорин
+civil war - громадянська війна
+civilians - цивільні особи; мирне населення
+class - клас; тип; категорія; класифікувати; (мор.) серія кораблів
+classified - класифікований, засекречений; який має гриф секретності; такий, що не підлягає розголошенню; з грифом секретності (напр. про документ)
+clear the gun - розрядити гармату
+clicking - клацання; удари (у двигуні)
+cluster bomb - касетний боєприпас, касетна бомба
+coalition - коаліція, союз (тимчасовий); коаліційний
+cohesion - злагодженість; згуртованість; зчеплення; взаємодія
+collaboration - співпраця (у контексті протимінної діяльності, закупівля обладнання двома організаціями або більшою їх кількістю)
+column - колона; стрій кільватера
+combat losses - бойові втрати
+combat medic - військовий санітар; бойовий медик / фахівець з охорони здоров’я
+combat resupply - поповнення запасів у бойових умовах
+combat zone - зона бойових дій (напр. від лінії фронту до зони комунікацій) (they were ordered to drop for fifty push ups, a ritual greeting upon entering a combat zone. Bowden, Mark. Black Hawk Down p. 38)
+comms - комунікації, способи / засоби підтримки зв'язку (неформальне скорочення від communications)
+communications jammer - станція радіоперешкод
+communications link - лінія зв'язку
+compound - склад; суміш; сполука; компаунд
+consolidate - закріплюватися (на місцевості)
+contain the enemy - сковувати сили противника
+continuity of command - безперервність управління військами (силами); безперервність командного управління
+continuity of defense - безперервність оборони; цілісність оборони; система оборонних споруд без неприкритих ділянок; суцільна система оборони
+convey - доставляти; передавати
+convoy - колона (транспорту); конвой; ескортний; конвойний; супроводжувати, конвоювати
+convoy escort - охорона / супроводження / ескорт конвою
+cooperation - співпраця, взаємодія (стратегічна, оперативна, тактична)
+coordinates - координати
+cope cage - (розм.) `мангал` / клітка надії / броня емоційної підтримки / клітка копіуму (протикумулятивна решітка / захисний каркас; згідно поширеної думки забезпечує лише психологічний захист при ураженні бронетехніки зверху)
+correction - вношу поправку / уточнюю / даю виправлення (термін радіообміну); корекція, виправлення; поправка
+counterattack - контратака (для відновлення втраченого положення або у мобільній обороні); контрудар; контратакувати
+counter battery fire - контрбатарейна боротьба / контрбатарейний вогонь
+counter offensive - контрнаступ
+cover by fire - накривати вогнем
+cover - укриття (від вогню); захист; прикриття (елемент охорони основних сил, на відміну від дозору чи застави має здатність діяти незалежно); прикриття (агента тощо); кришка ствольної коробки; кришка магазину; чохол; прикривати; покривати, вкривати
+concealment - маскування; приховане базування; укриття / захисток / схованка від спостереження; прихованість
+covering - дії в групі прикриття; обшивка
+covering fire - вогонь прикриття; вогневе прикриття (вогневий вплив для захисту особового складу, який перебуває в межах досяжності стрілецької зброї противника)
+crew - екіпаж; гарматна / кулеметна обслуга, розрахунок
+crew served weapon - групова зброя; зброя, що обслуговується розрахунком (зброя, яка разом з боєприпасами є штатним спорядженням двох і більше солдатів)
+critical - тактично важливий; переломний, вирішальний; особливо цінний (про розвідку / термін спецслужб)
+daily patrols - щоденне патрулювання
+damage - збиток; пошкодження; руйнування; псування; зношення; завдавати шкоди / збитків; пошкоджувати; ушкоджувати; руйнувати; псувати; зношуватися; вражати
+dead space - зона, що не прострілюється; `мертвий простір`
+debrief - проводити опитування / давати вказівки після виконання завдання
+defeat - поразка; знищення; розбивати, завдавати поразки
+delay - стримувальні дії; детонатор уповільненої дії; затримувати; вести стримувальні дії
+delay fuze - детонатор з уповільненням
+deploy - розгортати (війська, зброю), дислокувати, розташовувати (війська); вводити в дію
+detach - відряджати; відокремлювати; від'єднувати; знімати; відстиковувати
+detachment - загін ([тимчасовий] підрозділ, сформований з інших підрозділів або частин підрозділів); команда (частина підрозділу, тимчасово відокремлена від свого основного формування для несення служби в іншому місці); відділ(ення); роз'єднання; відрядження
+detect - виявляти; детектувати
+directive - директива; розпорядження; (організаційна) вказівка; установка; директивний; вказівний
+displace - переміщати; звільняти (з посади тощо); заміщати; мати водотоннажність (про судно); витісняти
+disposable - одноразовий; доступний, що є в розпорядженні
+disregard - не брати до уваги (термін радіообміну)
+diversion - відволікання (уваги та сил противника від напрямку зосередження основних зусиль); відволікальна (відтяжна) дія; удавана атака / обхід; відхилення від курсу / напрямку; перенаправлення / зміна курсу / маршруту руху; відведення судна до порту
+divert - відхиляти(ся) (від курсу); змінювати (маршрут); відволікати (увагу); відвертати
+division - дивізія; дивізія (великих кораблів авіаносців; крейсерів), дивізіон (малих кораблів есмінців; тральників); дивізіон (бойовий підрозділ на кораблі); управління (у структурі організації, зокрема, НАТО)
+doctrine - засадничі принципи застосування військ (сил); доктрина
+dodge - здійснювати маневр ухилення; уникати;
+downrange - у напрямку від місця стрільби; на напрямку стрільби; (ав., ракетн.) поздовжня / похила дальність; у напрямку від початку траси; (розм.) ‘за межами досяжності’ (розгортання за кордоном, як правило, в зоні бойових дій)
+downwind - за вітром
+draftee - призовник
+drift - повільна течія; дрейф; зсув; деривація; знесення (вітром, течією); горизонтальний хід; кут знесення; зміщення; відхід (гіроскопу); зносити; відходити, дрейфувати (про гіроскоп тощо); наносити (сніг, пісок)
+driver - ведуча деталь
+pocket - `котел`, оточення; осередок опору; оточувати
+drop - висадка / десантування (напр. десанту, вантажів на парашутах); скидання (парашутистів або вантажу); падіння; перепад; обрив; спуск; зниження; втрата; (розм.) пенсія вдови військовослужбовця; відкидний; падати; скидати; висаджувати (з літака), десантувати
+point man - головний дозорний / чатовий; навідник
+dud - боєприпас, що не розірвався; (акумуляторна) батарея без електричного заряду
+duty - обов'язок; чергування; корисна робота (машини); мито, податок; робочий цикл; режим (роботи); продуктивність, потужність; службовий; черговий
+dysentery - дизентерія
+early warning - раннє попередження / оповіщення; дальнє (радіолокаційне) виявлення (ДРЛВ)
+earth bank - земляний вал
+earthwork - земляне укріплення; земляні роботи
+easily accessible - легкодоступний
+east - схід; ост; східний; у напрямі на схід
+eastbound - що рухається на схід
+echelon - ешелон; уступ; елемент бойового порядку; побудова уступом; інстанція; орган управління; ланка; ешелонувати, будувати уступом (про бойовий порядок)
+elevate - надавати кут піднесення (гарматі); підвищувати (по службі)
+engine exhaust - випускні гази двигуна
+engine failure - відмова двигуна (пошкодження тощо)
+engine oil - моторне масло
+engine test - випробування двигуна
+engineer - інженер; сапер; (іст.) випускник військового училища Вест Пойнт, який отримав найвищу оцінку під час випуску
+enhanced - посилений
+engraving - форсування снаряда
+point target - точкова (малорозмірна) ціль
+enlargement - розширення; доповнення; звільнення (з під варти тощо)
+point - головний (тильний) дозор; головна застава; вістря; точка; орієнтир; пункт; момент (часу); удар багнетом; румб (за компасом); вказувати (на щось); наводити; прицілюватися
+enlist - вступати на військову службу; зараховувати до складу збройних сил
+pollution - забруднення; забрудненість
+pond - ставок; водойма; басейн; загата
+pontoon - понтон
+pontoon bridge - понтонний міст
+pooling - об'єднання (зусиль); об'єднання матеріальних засобів
+position - позиція (напр. тактична); лінія (рубіж); посада; точка зору; ситуація / обстановка (напр. тактична); ставити; розташовувати; визначати місцеположення
+potable water - питна вода
+pow collecting point - пункт збору військовополонених
+powder - порох; порошок; пил
+practice - практика; дія; застосування; встановлений порядок
+precedence - черговість; ступінь терміновості (повідомлення)
+precision - точність (стрільби)
+precision strike - (ав. арт.) високоточний удар (`Ukraine’s forces have ... severed Russian supply lines with precision strikes on key bridges.` nytimes.com)
+prediction - прогноз; попередження; застереження
+preflight check - передполітна перевірка
+preparatory fire - контрольна стрільба (вогонь для визначення або перевірки даних для стрільби, напр. при зістрілюванні гармат)
+pressure - тиск; стискання
+ecm environment - умови застосування засобів радіоелектронного придушення
+primer - капсуль (закінчений бойовий припас, який встановлюється в гільзу або підривний механізм і забезпечує запалювання порохового заряду); капсульна трубка / втулка; запалювальна (гарматна) трубка; (іст.) запальний пристрій; засіб займання; (проміжний) детонатор; запальна шашка; запал; насос підкачування
+priority - `термінова` (ступінь терміновості) (термін радіообміну); пріоритет; порядок черговості / терміновості
+procedure - порядок роботи; процедура; порядок (послідовність) дій; метод; методика; технологія; правила; процес (виконання польоту тощо); встановлена схема (польоту);
+process - процес; обробляти
+proceeds - надходження
+product - продукт реакції; результат
+production - виробництво; виготовлення; випуск продукції
+productivity - продуктивність
+program - програма; план; регламент (обслуговування); програмувати; складати програму; виконувати регламент
+prone - у положенні лежачи, у лежачому положенні; ниць
+propagation - поширення (хвиль; коливань); розповсюдження
+effect - дія; вплив; результат; уражальна дія; (мн.) уражальні фактори (напр. ядерного вибуху); явище; (особисті) речі; виробляти; викликати; робити, виконувати
+propellent - див. propellant
+propulsion - двигун; рушійна сила; силова установка
+protection - прикриття; охорона; захист; захищеність
+prototype - прототип / дослідний варіант (обладнання / компонент, що якомога ближче відповідає кінцевій конструкції для допомоги у розробці / демонстрації)
+provide fire - вести вогонь
+pump - помпа / насос ; нагнітати, помпувати
+effective range - дальність дійсного вогню (напр. ураження з ймовірністю не нижче заданої); ефективна дальність; робочий діапазон
+pump action - помповий; помпової дії
+ejector - ежектор; струминний насос; пристосування для викидання гільз; відбивач; викидач (напр. витяжної трубки); робітник команди з викидання вантажів із літака
+punch - пробивач
+purge - фільтрація і вентиляція повітря (ЗМУ); продування апаратів; ‘чистка’ (політична); видалення захищених даних із пам'яті (після опрацювання)
+purity - чистота (паливно мастильних матеріалів); відсутність домішок (у паливно мастильних матеріалах тощо)
+pursuit - переслідування (наступальні дії з завданням знищити противника або перерізати шляхи відходу) ('Pursuit was impossible owing to the impenetrable jungle.‘)'My Early Life’ by Winston Churchill)  ; (іст.) літак винищувач; (іст.) винищувальна авіація; переслідувати
+element - складова частина; (організаційна, стройова) одиниця; елемент; компонент, ланка
+elevation - вертикальне наведення (установка прицілу); кут місця (цілі); кут прицілювання; перевищення (кут перевищення); кут підіймання / кут піднімання; кут піднесення (напр. напрямної); висота (над рівнем моря); височина; підвищення; піднесення; підняття (напр. світила)
+elevator - кермо висоти / стерно висоти / руль висоти; стартовий стіл; підіймач літаків; вантажопідіймач; ліфт, підіймач
+quadrant - секторна качалка
+embed - акредитований журналіст (інформує ЗМІ про діяльність підрозділу)
+qualification - класність; рівень підготовки; ступінь кваліфікованості; спеціальність; категорія, клас
+emergency - позачергова (ступінь терміновості / термін радіообміну); надзвичайна ситуація; особливі обставини; що застосовується у крайньому випадку; аварійна обстановка, аварійна ситуація, критичні умови; запасний, допоміжний (напр. аеродром); аварійний, запасний (про обладнання чи систему)
+qualified - той, хто має клас (категорію)
+emission - викид; випромінювання; поширення (запаху, світла, тепла тощо); емісія (викиди в атмосферу)
+emission control - контроль емісії
+emit - випускати; випромінювати; поширювати (запах, світло, тепло тощо)
+emplacement - (обладнана вогнева) позиція; місце розташування; гарматна платформа; окоп (вогневого засобу); встановлення / установка на позиції (переведення в бойове положення)
+enclosed sea - замкнене море; закрите море (що складається з територіальних морів та виняткових економічних зон прибережних держав)
+encode - кодувати; шифрувати
+encounter - зустріч із противником; сутичка; несподівана зустріч; стикатися з; несподівано зустрічатися
+end - дуло; приймальний або передавальний кінець лінії зв'язку
+encrypt - шифрувати; кодувати
+endurance - тривалість / дальність польоту (плавання тощо); зносостійкість (опірність зношуванню); витривалість
+enemy - противник
+engage - входити в зіткнення з противником; зав'язувати бій / розпочинати бій / вступати в бій; вводити в бій; атакувати / напасти (на); відкривати вогонь / відкрити вогонь / вести вогонь (по цілі) / здійснювати вогневе ураження / вражати ціль / (розм.) 'працювати' (по цілі); приймати на службу; увімкнути / вмикати (механічно тощо); вражати, сковувати; вставляти; зачіплятися; вводити в зачеплення; з'єднувати
+engine - силова установка; двигун
+evacuate - проводити евакуацію, евакуювати; покидати (літальний апарат); відкачувати (газ)
+evaluation - оцінка; оцінювання (аналіз результату для встановлення кількісної та якісної ефективності та цінності програмного забезпечення, компонента, обладнання або системи, в рамках оточення, в якому це буде працювати)
+evasion - уникнення / вихід з під удару; вихід з території, зайнятої противником; ухилення (від призову); ухилення (від зустрічі з противником / 'відрив' від противника)
+exchange - телефонна станція / комутатор; обмін, розмін; магазин військово торгівельної служби
+quarantine - карантин; піддавати карантину
+execution - виконання; страта
+expendable - одноразового використання
+quarter - (pl.) казарми; приміщення; місця згідно з бойовим розписом / за бойовим розкладом; бойова тривога; шикування, великий збір; місцевість; кормова частина судна; чверть (румба); мушля (корабля); пощада; розміщувати; розквартировувати (війська)
+quitter - (розм.) дезертир; симулянт, недбайливий солдат
+quickie - (розм.) кулеметна черга
+naked eye - неозброєне око (оператора дрона, стрільця тощо)
+napalm - напалм; напалмовий
+nation - держава; нація (національно економічна спільність людей)
+naval academy - військово морське училище
+navy - Військово морські сили (ВМС); військово морський флот (ВМФ)
+naval blockade - морська блокада (ізоляція держави з метою припинення її зовнішніх зв'язків і заборони виходу флоту за межі блокованого району)
+navigation - судноплавство; мореплавство; навігація; кораблеводіння (наука)
+navigator - штурман
+explode - вибухати; висаджувати (в повітря)
+extract - витяг (з книги / документа тощо); уривок; витяжка, екстракт; вилучати (кулю тощо); витягувати; викидати; евакуювати
+eye - вічко (оглядовий отвір); кільце / коуш (на кінці каната); рим (підйомне кільце); гирло (шахтного входу)
+face - лицьова сторона; лицьовий бік (про прилади); поверхня, шкала (приладу)
+facility - споруда; обладнане приміщення; об'єкт інфраструктури; матеріально технічний засіб; обладнання
+needle - підколювати (жартувати You only needled the good guys. ‘Operation Mayhem’, Heaney with Lewis, 2014)
+fail safe - безпечний (щодо польоту); надійний, безвідмовний (щодо механізму)
+fake - фальшивка; муляж; макет ЛА умовна ціль (на навчаннях); обманний рух; шлаг (каната); підробляти; фальсифікувати; фабрикувати
+fall back - відходити, відступати (The enemy, falling back before us, took advantage of every position. ‘My Early Life’ by Winston Churchill)
+fall - фал (снасть для підйому і спуску деталей рангоуту, прапорів, вимпелів і т. ін.); падіння; ухил, нахил; гинути (в бою), бути вбитим; падати; спадати, спускатися, знижуватися
+fall in - ставати в стрій; ставай! (команда)
+fall out - виходити з ладу; виходити з бою; робити вилазку; (розм.) переходити на офіційний тон (у (розмові); вільно, розійдись! (команда)
+negotiate - долати; вести переговори
+neighbor - сусідні війська, сусід
+net - мережа; сітка; (комунікаційна) мережа; (радіо)мережа; маскувальна мережа; маскувальна сітка; мережеве загородження; входити в зв'язок; ставити мережеві загородження; захоплювати
+netting - організація мережі зв'язку; вхід у зв'язок (у даній мережі); налаштування на хвилю мережі
+network - мережа (доріг, ліній зв'язку, каналів)
+neutralise - нейтралізувати; придушувати; проводити дегазацію / дезактивацію; оголошувати нейтральною зоною; знешкодити (у контексті протимінної діяльності повторне встановлення запобіжних пристроїв / чеки / шпильки у вибуховий пристрій щоб виключити спрацьовування детонатора / запальника, див. demilitarisation)
+neutrality - нейтральність, нейтралітет
+fatal injury - тілесне смертельне ушкодження
+fatigue - утома; утомна міцність; (мор.) втома, стомлення
+ferry - пором; переправа (напр. на плавучих засобах) / перевіз; поромна переправа; регулярна авіатранспортна служба; (розм.) ‘переганяння’ (літаків)
+field - поле (у т. ч. мінне); поле бою; аеродром; (навчальний) плац; ділянка, сектор (спостереження, обстрілу тощо); польовий; (розм.) залягати (під вогнем); вводити в бій; висувати (на поле бою)
+fight - бій; бойові дії; воювати; вести бойові дії
+fighting hole - одинарний стрілецький окоп
+file - ряд строю; колона по одному; (мн.) колона по двоє; (розм.) черговість отримання звання; іти колоною; іти один за одним
+fire fight - вогневий бій
+fire rate - темп стрільби; швидкострільність, швидкість стрільби
+fire support element - підрозділ вогневої підтримки
+fire team - вогнева група, група вогневої підтримки
+first aid kit - (індивідуальна) аптечка першої допомоги
+fix - місцеперебування; координати; стан, становище; (мор.) зафіксований пункт; встановлювати, закріплювати, (за)фіксувати; сковувати (противника)
+flag - прапор, знамено, стяг; покажчик у вигляді прапорця; сигнал виклику; флагманський; сигналізувати прапором; привертати увагу
+flank - фланг; бік, сторона; схил (гори); борт машини; торцева сторона; профіль ніжки зуба / робоча поверхня ніжки зуба (зубчастого колеса) фланговий; обстрілювати (обходити) з флангів; вести фланговий вогонь; обходити / атакувати з флангу
+flare - сигнальна ракета; освітлювальний патрон; теплова пастка; яскраве нерівне світло; спалах; світловий сигнал; паразитні відбиття світла в оптичному прицілі; (рлк.) розмиття позначки цілі; освітлювальний
+flash - спалах (The tail boom of the bird cracked in the flash... Bowden, Mark. Black Hawk Down p. 77); блиск; полум'я пострілу з РПГ; дульне / дулове полум'я; блискавка (ступінь черговості повідомлення / донесення); емблема на головному уборі (напр. береті): спалахувати; виблискувати
+flashlight - електричний ліхтар; сигнальний вогонь
+flechette - флешета (стрілоподібний вражаючий елемент; стрілоподібна куля)
+flexibility - гнучкість (застосування); експлуатаційна гнучкість; здатність до переналагодження; оперативність; ступінь віддачі (у певних видів зброї)
+float - пліт; опора наплавного мосту; опорна / анкерна плита; що вільно обертається; закріплений на шарнірі; триматися на поверхні; пливти
+flood - повінь, потоп; , потоп, розлив, приплив; затоплювати; (рлк.) опромінювати широким електронним пучком
+flyover - політ для спостереження з землі; політ бомбардувальників над імітованою ціллю; естакада
+foe - ворог, противник
+folding bipod - відкидна сошка
+follow - переслідувати; рухатися у другому ешелоні
+nonflammable - незаймистий
+formation - військова одиниця; стрій; бойовий порядок; побудова (військ) / ордер (впорядковане розташування військ / транспортних засобів, що діють разом під єдиним командуванням); формування (військове); угруповання військ (сил); (брит.) з'єднання
+fort - форт; військове містечко; постійне місце розташування
+fortify - укріпляти, зміцнювати; посилювати; підкріплювати; зводити укріплення
+forward - передній; передовий; передового базування
+foxhole - одинарний (індивідуальний) окоп; окремий стрілецький шанець, індивідуальна вогнева чарунка
+frag - осколкова граната (скор. від fragmentation grenade); (розм.) навмисно ранити / вбивати осколковою гранатою свого, намагаючись перекласти відповідальність на противника
+fratricide - ‘дружній вогонь’ / вогонь по своїх військах; ненавмисне ураження своїх сил (через помилкову ідентифікацію тощо); братовбивство
+freedom - вільний хід
+frequency - частота, частотність
+friction - тертя (процес); сила тертя
+friendly - що належить своїм військам
+obey orders - виконувати накази
+objective - об'єкт (наступу); бойове завдання; район / рубіж (яким слід опанувати); (визначена та досяжна) ціль операції (ЦОп); мета; об'єктив
+objective area - район цілі; район висадки (викидання) десанту; район проведення морської десантної операції; район десантування
+fuel - паливо, пальне; заправляти(ся) паливом, набирати паливо
+frostbite - обморожене місце
+funnel - димар, труба (парових машин та суден)
+fuze - запал (пристрій, що ініціює вибуховий ланцюг)
+ensure adequate provisions - забезпечувати відповідні запобіжні засоби
+entanglement - (дротяне) загородження
+obscure - невиразний, нез’ясований, нечіткий; маскувати; загороджувати (світло тощо) ; затемнювати, затемняти, притемнити
+entrench - окопуватися; укріпляти
+observation - спостереження
+envelop - охоплювати; обходити; оточувати
+observe - вести спостереження; примічати, помічати
+environment - зовнішні умови; середовище; умови середовища; система технічних засобів забезпечення бойових дій; обстановка / ситуація
+observer - спостерігач
+obsolete - той, що вийшов з ужитку; застарілий; виходити з ужитку
+obstacle - перешкода; загородження
+obstruction - перешкода (як правило, використовується для повітряного простору та водного середовища); перепона
+occlusion - оклюзія, оклюдування циклону
+occupation - завоювання, окупація
+occupy - захоплювати, окупувати
+offensive - наступ; наступальний
+error - похибка (приладу, вимірювання тощо); відхилення від центру розсіювання; помилка; збій
+escape - порятунок; втеча (з полону тощо); прорив (з оточення тощо); витік (газу); випуск (пари); рятувальний; уникнути; врятуватися; виділятися (про газ)
+escort - ескорт; охорона, супровід, прикриття; корабель ПЧО; супроводжувати; охороняти; конвоювати
+establish - розгортати; розгорнути; (ав.) створювати (напр. авіаційну технічну базу); встановлювати (напр. схему польоту)
+estimate - оцінювання; оцінювати; (попередньо) визначати
+offset - відхилення; зсув; винесення; зміщення
+oil - олія; нафта; масло, мастильна речовина; нафтопродукти; рідке мастило; паливо; нафтовий; масляний; змащувати
+on call - на виклик, на вимогу; у готовності
+on duty - на чергуванні; при виконанні службового обов'язку
+on foot - в пішому строю; в пішому порядку
+on load - здійснювати завантаження
+on scene - (мор.) у зоні
+on target - влучно в ціль
+one eighty - (розм.) розворот на 180°; зміна (своєї) думки на прямо протилежну
+one up - кутом вперед (про бойовий порядок); (розм.) присвоєння (чергового) військового звання
+open fire - відкривати вогонь
+open up - (розм.) відкрити вогонь
+operate - експлуатувати; пілотувати; вести бойові дії; приводити в дію / рух; керувати (у т. ч. транспортом, механізмом)
+operation - операція (битва; бойові дії; кампанія); оперативне відділення; оперативне управління; спрацьовування (механізму); експлуатація; (тех.) робота; дія; режим (роботи); політ, виконання польоту; пілотування; керування; оперативний
+opiates - наркотики опійної групи, опіати
+optimized - з (обраними) оптимальними характеристиками; оптимізований
+orbit - орбіта
+order - наказ, розпорядження; заявка; інструкція; порядок; черговість; орден; ордер; лад; наказувати; приводити до ладу; замовляти
+ordnance - озброєння, боєприпаси; матеріальна частина артилерії; артилерійське озброєння; (брит.) артилерійсько технічне (і речове) майно; бойова техніка, бойові технічні засоби; артилерійський; артилерійсько технічний
+organic - штатний; табельний; що входить до складу; органічний; погоджений
+organization - організація; структура; з'єднання; угруповання; установа; обладнання (місцевості); формування; бойовий розподіл
+organize - організовувати; влаштовувати; проводити організаційні заходи
+orifice - отвір (в тілі); жиклер
+outcome - кінцевий результат (у контексті протимінної діяльності ймовірні або досягнуті короткострокові і середньострокові наслідки втручання)
+outpost - аванпост; сторожова застава; бойова охорона
+over - `прийом` / ваша черга говорити / переходжу на прийом (термін радіообміну); переліт (бомби, снаряда тощо);
+overhead - орган управління, адміністративний орган; командно штабний орган; фон (радіоперешкод в атмосфері); в повітрі (про літальний апарат); (мор.) верхній, підвісний, повітряний; надземний
+overrun - викочування за межі злітно посадкової смуги; вторгатися; займати; захоплювати
+overwatch - (дистанційне) спостереження, прикриття; ведення спостереження за місцевістю (у передбаченні зустрічного бою тощо); вести спостереження за противником і своїми військами, що просуваються
+oxygen - кисень
+race - (швидке) просування; стрімко просуватися
+radar - радіолокатор, радар; радіолокаційна станція (РЛС); радіолокація; (рлк.) радіолокаційний засіб (інформаційного забезпечення військ)
+radiation - випромінювання, радіація; опромінення; променевий
+radiator - радіатор
+radio - радіо; радіостанція; рація; радіозв’язок; радіопристрій; радіоустаткування; радіограма; (розм.) зв'язатися по рації; передавати за допомогою радіозв’язку
+radio controlled - радіокерований
+radio net - радіомережа
+radioactive - радіоактивний
+raid - рейд (для розвідки, знищення об’єктів, введення противника в оману тощо); набіг; облава (пошук); (раптовий повітряний) напад (наліт); здійснювати наліт / набіг / облаву / рейд; нападати; діяти на комунікаціях супротивника (напр. морських)
+raincoat - плащ пальто
+rainfall - кількість атмосферних опадів; злива / атмосферні (дощові) опади
+ram - таран; (швидкісний) напір; проривати (оборону противника); досилати (снаряд); вражати ціль (прямим попаданням); таранити; протаранювати; (тех.) підбивати / трамбувати (баласт); трощити
+range - дальність (дії, польоту, ходу корабля, стрільби, передачі тощо); запас ходу; радіус дії; відстань (напр. між заданою точкою та об’єктом / ціллю); діапазон (напр. вимірювань); межі (змінювання); дистанція; далекобійність; досяжність; тріангуляційний ряд; приціл (установлення прицілу); трубка (установлення трубки); чутливість (напр. дозиметричного приладу); область, сфера, зона; віднос (бомби);стрільбище, полігон, тир; пасмо (гір тощо); визначати відстань до цілі; пристрілювати ціль за дальністю; розташовувати в порядку; коливатися (в межах)
+range finder - далекомір
+ranger candy - (розм.) ібупрофен
+rank - військове звання; службове становище; ранг; шеренга; рядові люди, маса; класифікувати; шикувати(ся); займати певне місце
+ranking officer - старший за військовим званням офіцер
+rappel - спускатися по канату (з вертольота, вертикальної стіни)
+re up - (розм.) залишатися на надстроковій
+react - реагувати; протидіяти; проводити контратаку
+ready - готовий до бою' (використовується для позначення зарядженого, наведеного та підготовленого до ведення вогню озброєння); положення зброї напоготові
+real time - реальний масштаб часу (за відсутності 'помітних' затримок, за винятком витрати часу на електронний зв'язок)
+rearguard - ар'єргард
+rearm - переозброєння; поповнення боєкомплекту; постановка на бойовий взвод; переозброювати; знову прицілюватися; виправляти наводку
+rearward - тил; спрямований назад; тиловий
+rebel - повстанець; повстанський; повставати; протидіяти; чинити опір ('The rebels had charged forward in human waves to attack us, guns blazing.', див. 'Operation Mayhem')
+rebellion - повстання, бунт, заколот; опір; непокора
+receiver - (радіо)приймач; телефонна трубка; ресивер; одержувач; приймальний пристрій; рамка (пістолета); ствольна коробка
+recess - виточка; проріз; порожнина; канавка; паз
+recock - повторно ставити на бойовий взвод; (розм.) знову приводити в бойову готовність; відновлювати бойову готовність
+recoil - віддача / відкат (під час пострілу); відхід, відступ; відбій; відскочити (у т. ч. рикошетом), відступити
+recommitment - повторне введення в бій
+recon by fire - (розм.) розвідка вогнем
+reconcentrate - зосереджувати (після розосередження)
+reconnoiter - проводити / вести розвідку; проводити рекогносцировку
+record - наносити на карту; фіксувати; реєструвати
+recover - відновлювати; регенерувати
+recovery position - (мед.) рятівне положення (положення лежачи на боці з поверненою у бік головою, з розташуванням порожнини рота нижче рівня повітроносних шляхів та висунутою вперед нижньою щелепою положення кінцівок обирають таким чином, щоб стабілізувати зазначену позицію); стійке бічне положення
+recruiting - комплектування; набір; вербування
+reduction - дії зі знищення і скорочення боєвого потенціалу противника; (інж.) скорочення загороджувальної дії перешкод (мінних полів тощо)
+reduce - зменшувати, скорочувати; понизити на посаді / в званні (розжалувати); розбудовувати (бойовий порядок); ліквідувати / придушити / знищити (вогневу точку / оборонну споруду тощо)
+reference - довідка; посилання; відмітка по реперу; співвідношення
+reflector - відбивач
+refit - ремонт; переозброєння; перекомплектування; модифікація
+refuel - дозаправлятися; дозаправитися; поповнити / поповнювати запаси пального
+refugee - біженець
+register - реєстр, журнал обліку; опис; реєстр; лічильник; накопичувач; реєструвальний механізм; реєструвати
+regulars - (розм.) регулярні війська
+rehabilitation - реабілітація; відновлення здоров'я / працездатності (після поранення); впорядкування (військ після битви)
+reinforce - підсилювати, зміцнювати; підкріплювати (Behind that was a cargo Humvee manned by D boys and SEALs, who would proceed straight to the target building to reinforce the assault team already there. Bowden, Mark. Black Hawk Down p. 51)
+relationship - взаєморозташування
+relay - реле; радіорелейний зв'язок; радіорелейна лінія; трансляція; передача (сигналів); ретрансляція; переприймання; (робоча) зміна / заміна (Hercs were flying a relay of further men and matérielfrom Senegal. ‘Operation Mayhem’, Heaney with Lewis, 2014); транслювати; передавати (сигнали); передавати (далі); ретранслювати
+release - скидання (бомб); відпускати (напр. кнопку); звільнення; виділення (енергії); механізм роз'єднання; скидати (бомби); розчіпляти; звільняти
+reliability - ймовірність безвідмовної роботи; (експлуатаційна) надійність (здатність виконувати потрібну функцію за вказаних умов протягом вказаного періоду часу); безвідмовність, безвідмовна робота
+relieve - зменшувати (тиск); звільняти; змінювати (на посту); зняти облогу
+reload - перевантажувати; перезаряджати
+relocation - переміщення; передислокація; (рлк.) повторне виявлення; зміна розташування в пам'яті; перепризначення / модифікація адреси (напр. осередків пам'яті); зміна позиції (напр. курсору)
+removal - знімання
+reorganize - реорганізовувати; перегруповувати; приводити в порядок
+repair - ремонт; лагодження; відновлення; виправлення (програми); ремонтувати; відновлювати; виправляти (програму)
+repeat - ПОВТОР (команда подається корегувальником вогню під час пристрілювання або вогню на уваження)
+repeater - ретранслятор; відповідач (РЛС)
+replacement battery - запасна акумуляторна батарея
+request fire - викликати вогонь
+requirement - необхідна умова; потреба; вимога (до відпрацювання тактичних завдань по обстановці тощо); норма
+requisition - запит вимога (щодо поповнення особового складу, табельних предметів постачання / забезпечення тощо)
+rescue - порятунок; рятування; рятувальні роботи; рятувальний; визволяти; рятувати
+research - науково дослідницька робота
+reserve - резерв; сили резерву; другий ешелон; запас; запасний, резервний
+reservist - резервіст
+resign - виходити (подавати) у відставку (без пенсії)
+resolve - намір; рішучість
+restrict fire - обмежувати ведення вогню
+resupply - поповнення запасів (матеріальних засобів / предметів постачання); підвезення (під час операції); дозаправлення; підживлення; (косм.) дозабезпечення; дооснащення; поповнювати запаси; заправлятися (акт поповнення запасів з метою підтримання необхідних рівнів постачання JP 4 09)
+retardation - уповільнення; запізнювання; дії авіації щодо заборони перекидання військ і предметів постачання до лінії фронту
+retire - наказ про відступ; відходити; іти у відставку; звільнятися з дійсної військової служби
+retreat - відступ; відхід (планове чи вимушене залишення займаних рубежів); відходити; відступати
+return fire - вогонь у відповідь; відповідати на вогонь; робити постріл / вести вогонь у відповідь (Two of Howe’s team returned fire as they ducked behind the low wall for cover. Bowden, Mark. Black Hawk Down p. 35)
+revision - звіряння; контрольна перевіркове знімання
+rib - нервюра; ребро; фланець
+ride - їхати (верхи, на транспортному засобі тощо); керувати, управляти; стояти на якорі
+rifle - гвинтівка; нарізна вогнепальна зброя; стрілецький; нарізати (дуло зброї)
+rifleman - стрілець – піхотинець
+rifling - система нарізів (в каналі ствола)
+ring - (поршневе) кільце
+riot - бунт; заколот; брати участь у бунті; порушувати громадський порядок
+road - дорога
+half - Половина
+safety pin - Чека
+hydraulic - Гідравліка
+salute (size; activity; location; unit; time; equipment) формат доповіді; чисельність; діяльність; місцеположення; підрозділ; час; спорядження
+harmless безпечний
+schedule - Розклад, поставити в розклад
+harmful - не безпечний
+sea - море
+he - ОФ
+self aid - Само допомога
+headquarters - Штаб
+semi - напів...
+hear - чути
+separate - відділити
+heavy bomber aviation regiment (hbar) - полк важких бомбардувальників
+shell - Снаряд
+heavy machine gun (hmg) - Важкий кулемет
+shelling - Обстріл (арт.)
+helicopter - гвинтокрил
+shootout - перестрілка
+high explosive - Високо вибуховий
+shot - Постріл
+himars - Високомобільна ракетно артилерійська система
+side - сторона
+hold your fire! - припинити вогонь
+sick - хворий
+hostile - не дружний
+siege - блокада
+howitzer - гаубіца
+true a sight - вивірити приціл
+human - людина
+simulate - симулювати
+ice - лід
+id - ідентифікація/ідентифікувати
+situation report - (sitrep) Доклад по ситуації
+ied - СВП
+sleep - спати
+iff - ідентифікація свій чужий
+sleeping - Спить
+imagine - Уяви
+small arms (sa) - Стрілкова зброя
+immobile - не рухомий
+small tactical unmanned aircraft system (stuas) маленький тактичний БПЛА
+smoke - Дим
+impact - удар; влучання (дія за знач. влучати) / влучення (дія за знач. влучити) / 'приліт'; зустріч кулі (снаряда тощо) з перешкодою; поштовх; зіткнення; ударний струс; імпульс; похідне навантаження; вплив (у контексті протимінної діяльності, рівень втрат внаслідок шкоди / ризику збитків, що викликаються небезпекою від мін / ВЗВ, та від небезпечних зон)
+smog - Туман/дим
+impede - Зупиняти
+smooth bore - Гладкоствольне
+implement - інструмент, знаряддя, прилад; засіб; приналежність, пристрій; інвентар; приводити у виконання; забезпечувати необхідними засобами; постачати
+snow - Сніг
+inadequate - недостатне
+special forces - Спеціальні сили
+incident - Інцидент
+shell casing - Гільза
+indiscriminate - не прицільний...
+spray and pray - не прицільний вогонь
+infantry fighting vehicle (ifv) - Бойова машина піхоти БМП
+standing order(s) - Накази
+infantry mobility vehicle (imv) - піхотна мобільна машина / бронеавтомобіль
+surface to air missile (sam) - Ракета земля повітря
+fire when ready (fwr) - Вогонь по готовності
+nlaw (next generation light anti tank weapon) - `легка протитанкова зброя наступного покоління` (шведсько британська переносна протитанкова керована ракета малої дальності)
+non commissioned officers (nco) - унтер офіцер, сержант, капрал; військовослужбовець унтерофіцерського, сержантського та старшинського складу
+follow me -  йди за мною
+non lethal - не летальне
+forest - ліс
+north atlantic treaty organization (nato) - Організація Північноатлантичного договору (НАТО); Альянс
+objective rally(ing) point (orp) - пункт збору (десанту, розвідгрупи тощо) поблизу об'єкту дій (для здійснення остаточної підготовки)
+eod - знешкодження вибухових боєприпасів (ЗВБ); знешкодження вибухонебезпечних предметів / вибухових пристроїв (ЗВП); утилізація (виявлення, ідентифікація, оцінювання, знешкодження, видалення) боєприпасів вибухової дії (що не розірвалися)
+officer - офіцер
+equipment - спорядження
+official - офіціне
+on hand - на руках
+open source intelligence (osint) - розвідка з відкритих джерел (РІВД) (з використанням загальнодоступної інформації та іншої нетаємної інформації, обмеженої щодо поширення / доступу); дані розвідки на основі аналізу відкритих джерел інформації
+opened / closed - відкрите/закрите
+operation order (opord) - бойовий наказ (БН) (може віддаватися письмово)
+operational security (opsec) - Операційна безпека (інформаційна)
+optical - оптичне
+orientation - оріентація
+original - оригинал
+overheat - Перегрів
+radio frequency (rf) - Частота радіо
+radio telephone operator (rto) - Радіо телефоніст
+rain - дощ
+random - випадкове
+rations - сухпай
+readiness condition (redcon) - стан готовності
+front sight - мушка
+rear sight - цілик
+recogntion - впізнавання
+recon unit - Підрозділ розвідки
+recruit - Рекрут
+relative - родичі
+reveille / réveillé - підйом
+risk - ризик
+river - річка
+zulu time; gmt - час за Гринвічем
+body armor - бронезахист тіла
+yankee - Американець
+paint - Малювати/фарба
+panic - паніка
+brigade combat team/bct - Бригадна бойова команда
+parachute drop/jump - парашутний скид/стрибок
+passanger - пасажир
+massacre - різанина
+peace - мир
+bull's eye - Центр цілі
+perimeter defense (all around defense) - оборона периметру
+butterfly mine - ПФМ 1, міна лепесток
+cache - склад зброї або БК
+phase line (pl) - рубіж регулювання; проміжний рубіж
+cadence (call) - армійський каденс / військова маршова (пісня волання та відповіді); ритмований спів при пересуванні
+cannon launched guided projectile (clgp) - Керований снаряд запущений з ствола
+pillbox - ОП (опорний пункт, професійно зроблений)
+casualty collecting point (ccp) - точка збору постраждалих
+planned - заплановано
+chemical, biological, radiological and nuclear (cbrn) - хімічна, біологічна, радіологічна та ядерна (війна) (брит. Приблизно до 2005 року відома як NBC
+private - рядовий
+close air support (cas) - Близька вогнева підтримка з повітря
+pfc(private first class) - старший солдат
+commander's intent - Мета командира
+corporal - молодший сержант (капрал)
+commanding officer (co) - командуючий офіцер (командир)
+sergeant - сержант
+2nd lieutenant - молодший лейтенант (brit: лефтенант, amer: лутенант)
+counter insurgency warfare (coin) - протиповстанська діяльність, дії проти антиурядових збройних формувань, боротьба із незаконними збройними формуваннями
+captain - капітан
+cic (сombat information control) - бойовий інформаційний пост (БІП) (на кораблі, підводному човні, КП, літаку тощо для збору, обробки, аналізу, оцінки та відображення інформації)
+major - майор
+lt. colonel - під полковник
+clash - стичка
+colonel - полковник
+close quarters combat (cqc) / close quarters battle (cqb) - Бій в близьких умовах
+team - команда
+collapsible - Щось що можна скласти
+squad - відділення
+command post (cp) - Командний пункт
+platoon - взвод
+company - рота
+concertina (wire) - колючий дріт
+battalion - батальон
+contingency - plan
+brigade - бригада
+regiment - полк
+ballistic arc - балістична арка
+division - дивізія
+corps - корпус
+documents - документи
+field army - польова армія
+platoon sergeant - Взводний сержант
+drone - Дрон
+pog (people other than grunts) - Люди хто не в піхоті
+dual purpose improved conventional munition (dpicm) - вдосконалені звичайні боєприпаси подвійного призначення (Касетні снаряди 155мм від США)
+enlistment office (draft office) - Военкомат/ТЦК
+prevent - запобігти
+ecm - РЕБ, електроні протидії
+primary, alternate, contingency, emergency (pace) - План ГДЗЕ Головний, другорядний, запасний, екстрений
+ecology - екологія
+economy - економіка
+projectile - снаряд
+ecwcs - ЕКВІКС, поширена система одягу для холодної погоди, ЗС США
+propaganda - пропаганда
+effective - ефективне
+electronic warfare - РЕБ
+quadcopter - квадракоптер
+quality control (qc) - контроль якості
+experience - досвід
+nbc - Ядерне, біологічне, хімічне
+factory - Завод
+negative - Ні, негативне,
+far - далеко
+night - ніч
+night vision device (nvd) - Прилад нічного бачення, ПНБ
+fire control system (fcs) - система контролю вогнем
+night vision goggles (nvg) - окуляри нічного бачення; (розм.) нічник (приціл нічного бачення) (As the darkness thickened around us even our night vision goggles(NVGs) couldn’t help much. ‘Operation Mayhem’, Heaney with Lewis, 2014)
+information - інформація
+surrender - Здатись в полон
+infrared (ir) - інфрачервне (ІЧ)
+surround - Оточити
+standard operating procedures (sop) - Стандартні операційні процедури, СОП
+insert - засунути
+temperature - Температура
+instalation - установа
+thermal sight/scope - Термальний приціл
+inteligence - розвід данні
+thermal camera - термальна камера
+intermediate - середне
+through - через
+internal - всередені
+transmitter - передавач
+transportaion - транспорт
+k 9 - Собака
+tighten  стискати, стискатися, натягувати, затягувати
+keep - утримувати
+triger - курок/почати
+killed in action (kia) - 200, вбити під час бойових дій
+total - загальна сума
+kinetic kill - Кинетичне вбивство
+track radar - радар ПВО який наводе ракети
+latitude ― широта (географічна)
+longtitude - довгота
+underwater - підводне/під водою
+lend - дати на якийсь час, дати в борг
+unexploded ordnance (uxo) - боєприпаси, що не розірвалися; вибухонебезпечні предмети, що не вибухнули (ВНВ) (ВНП, підготовлений шляхом переведення капсуля / запала / підривника / детонатора в бойове положення тощо, який проте не вибухнув)
+unidentified - Не ідентифіковано
+liquid - рідина
+unmanned ground system (ugs) - БПНС Без пілотна наземна система
+local - локальне
+unmanned undersea vehicle (uuv) - БППС без пілотна підводна система
+light antitank weapon (law) - Легка протитанкова зброя
+vacation - Відпочинок
+logistics - Логістика
+vehicle borne improvised explosive device (vbied) - СВП на транспортному засобі
+main - Головне/Головна
+walking - Йти пішки
+maintain - проводити технічне обслуговування (поточний ремонт); обслуговувати; витримувати; зберігати; підтримувати (напр. режим польоту)
+wall of fire - Стіна вогню
+weather - Погода
+man portable air defense system (manpads) - переносний зенітний ракетний комплекс (ПЗРК)
+welding - Сварка
+march algorythm - Алгоритм КОЛЕСА (Медицина)
+winter - Зима
+meal ready to eat (mre) - Сухпай США, страва готова до вживання
+working - Працюючий
+mechanical - Механічний
+accountability - Відповідальність (улюблене слово в армії)
+medical evacuation (medevac) - Медечна евакуація
+accuracy - точність
+affirmative… - +
+method of operation (moo) - метод операції
+after action review - огляд після дії (див. https://t.me/afteractionreview) (аналіз  / розбір виконання завдання); післяопераційний аналіз
+mine clearing - Прочистка мін
+minefield - Мінне поле
+anti tank guided missile(atgm) - ПТРК(ПТУР) Проти танковий ракетний комплекс (керований)
+ministry - міністерство
+arc of fire - арка вогню
+minister - міністр
+area of operations - зона операцій
+missile - (керована) ракета
+missing in action (mia) - Пропавший безвісті
+at position - На позиції
+mission, enemy, terrain (and weather), troops, time available, civil considerations (mett tc)_(фактори оцінювання обстановки) завдання, інформація про противника, місцевість (і погодні умови), свої війська, наявність часу, цивільне населення
+bacon - бекон
+mortar - Міномет
+been there, done that - Був там, робив те
+motorized - Моторизоване
+beyond line of sight (blos)_Поза лінією зору
+mushroom - Гриб
+musket - Мушкет
