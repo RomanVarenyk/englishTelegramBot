@@ -9,7 +9,7 @@ client = OpenAI(api_key=gptKey)
 
 def grammar(topic):
     completion = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4o-mini",
         messages=[
             {"role": "system",
              "content": "You are an English professor's assistant. You will only talk about learning/practicing "
@@ -24,7 +24,7 @@ def grammar(topic):
 
 def answerCheck(answer, original):
     completion = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4o-mini",
         messages=[
             {"role": "system",
              "content": "You are an English professors assistant. You will only talk about learning/practicing "
@@ -38,7 +38,7 @@ def answerCheck(answer, original):
 
 def askQuestions(question):
     completion = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4o-mini",
         messages=[
             {"role": "system",
              "content": "You are an English professors assistant. You will only talk about learning/practicing "
