@@ -9,17 +9,25 @@ import gptStuff
 
 load_dotenv()
 telegramKey = os.getenv('telegramKey')
-currentWord = ""
 bot = telebot.TeleBot(telegramKey)
 
 user_state = {}
 user_timers = {}
-
+user_word = {}
 wordList = []
 with open('words.txt', 'r', encoding='utf-8') as file:
     for line in file:
         wordList.append(line.strip())
 
+wordDef = {}
+for i in wordList:
+    sp = i.split(" - ")
+    wordDef[sp[0]] = sp[1]
+def doGrammarStuff(chat_id):
+    wordNum = random.randint(0, len(wordList) - 1)
+    cW = wordList[wordNum].split(" - ")
+    user_word[chat_id] = cW[0]
+    return cW[0]
 
 def reset_state(chat_id):
     global user_state
@@ -48,8 +56,7 @@ def send_main_menu(chat_id):
 
 
 def send_word_prompt(chat_id):
-    wordNum = random.randint(0, len(wordList) - 1)
-    currentWord = wordList[wordNum]
+    currentWord = doGrammarStuff(chat_id)
     bot.send_message(chat_id, f'Слово: {currentWord}')
     markup = InlineKeyboardMarkup()
     markup.row_width = 1
@@ -91,12 +98,22 @@ def callback_query(call):
 
     if call.data == 'words':
         send_word_prompt(call.message.chat.id)
+        reset_timer(call.message.chat.id)
+
     elif call.data == 'show':
-        bot.send_message(call.message.chat.id, "How are you?")  # TODO make words return)))
-        reset_state(call.message.chat.id)
+        markup = InlineKeyboardMarkup()
+        markup.row_width = 1
+        markup.add(
+            InlineKeyboardButton("Продовжити", callback_data='words'),
+            InlineKeyboardButton("В головне меню", callback_data='stop')
+        )
+        bot.send_message(call.message.chat.id, f"The definition of the word is: {wordDef.get(user_word.get(call.message.chat.id))}",reply_markup=markup)
+        doGrammarStuff(call.message.chat.id)
+        reset_timer(call.message.chat.id)
 
     elif call.data == 'grammar':
         doGrammar(call.message.chat.id)
+        reset_timer(call.message.chat.id)
 
     elif call.data == 'convo':
         bot.send_message(call.message.chat.id, "Fuuuuuuucl")
@@ -104,9 +121,11 @@ def callback_query(call):
 
     elif call.data == 'continue':
         send_word_prompt(call.message.chat.id)
+        reset_timer(call.message.chat.id)
 
     elif call.data == 'stop':
         send_main_menu(call.message.chat.id)
+        reset_timer(call.message.chat.id)
 
 
 @bot.message_handler(func=lambda message: True)
@@ -122,7 +141,7 @@ def handle_message(message):
         markup = InlineKeyboardMarkup()
         markup.row_width = 1
         markup.add(
-            InlineKeyboardButton("Stop", callback_data='stop')
+            InlineKeyboardButton("В головне меню", callback_data='stop')
         )
         bot.send_message(chat_id, gptRes, reply_markup=markup)
 
@@ -131,7 +150,7 @@ def handle_message(message):
         markup = InlineKeyboardMarkup()
         markup.row_width = 1
         markup.add(
-            InlineKeyboardButton("Stop", callback_data='stop'),
+            InlineKeyboardButton("В головне меню", callback_data='stop'),
             InlineKeyboardButton("Продовжити", callback_data='grammar')
         )
         bot.send_message(chat_id, "Хочете продовжити?", reply_markup=markup)
