@@ -23,11 +23,14 @@ wordDef = {}
 for i in wordList:
     sp = i.split(" - ")
     wordDef[sp[0]] = sp[1]
+
+
 def doGrammarStuff(chat_id):
     wordNum = random.randint(0, len(wordList) - 1)
     cW = wordList[wordNum].split(" - ")
     user_word[chat_id] = cW[0]
     return cW[0]
+
 
 def reset_state(chat_id):
     global user_state
@@ -43,14 +46,15 @@ def cancel_timer(chat_id):
 
 
 def send_main_menu(chat_id):
+    bot.send_message(chat_id, "Якщо вам треба зі мною зв'язатись, @RomanVarenyk")
     markup = InlineKeyboardMarkup()
     markup.row_width = 1
     markup.add(
-        InlineKeyboardButton("Practice words", callback_data='words'),
-        InlineKeyboardButton("Practice grammar", callback_data='grammar'),
-        InlineKeyboardButton("Practice conversation (experimental)", callback_data='convo')
+        InlineKeyboardButton("Слова", callback_data='words'),
+        InlineKeyboardButton("Граматика", callback_data='grammar'),
+        InlineKeyboardButton("Задайте питання про англійську! (експерементально)", callback_data='convo')
     )
-    bot.send_message(chat_id, "Pick one", reply_markup=markup)
+    bot.send_message(chat_id, "Оберіть що ви хочете зробити", reply_markup=markup)
     reset_state(chat_id)
     cancel_timer(chat_id)
 
@@ -72,7 +76,7 @@ def send_word_prompt(chat_id):
 def reset_timer(chat_id):
     cancel_timer(chat_id)
     stop_event = Event()
-    timer = Timer(30.0, send_main_menu_if_inactive, [chat_id, stop_event])
+    timer = Timer(300.0, send_main_menu_if_inactive, [chat_id, stop_event])
     user_timers[chat_id] = (timer, stop_event)
     timer.start()
 
@@ -107,25 +111,33 @@ def callback_query(call):
             InlineKeyboardButton("Продовжити", callback_data='words'),
             InlineKeyboardButton("В головне меню", callback_data='stop')
         )
-        bot.send_message(call.message.chat.id, f"The definition of the word is: {wordDef.get(user_word.get(call.message.chat.id))}",reply_markup=markup)
+        bot.send_message(call.message.chat.id,
+                         f"The definition of the word is: {wordDef.get(user_word.get(call.message.chat.id))}",
+                         reply_markup=markup)
         doGrammarStuff(call.message.chat.id)
         reset_timer(call.message.chat.id)
+        reset_state(call.message.chat.id)
 
     elif call.data == 'grammar':
         doGrammar(call.message.chat.id)
         reset_timer(call.message.chat.id)
+        user_state[call.message.chat.id] = 'waiting_grammar'
 
     elif call.data == 'convo':
-        bot.send_message(call.message.chat.id, "Fuuuuuuucl")
-        reset_state(call.message.chat.id)
+        bot.send_message(call.message.chat.id, "Яке у вас питання?")
+        user_state[call.message.chat.id] = 'await_ai_response'
+        reset_timer(call.message.chat.id)
 
     elif call.data == 'continue':
         send_word_prompt(call.message.chat.id)
         reset_timer(call.message.chat.id)
+        user_state[call.message.chat.id] = 'waiting_grammar'
+
 
     elif call.data == 'stop':
         send_main_menu(call.message.chat.id)
         reset_timer(call.message.chat.id)
+        reset_state(call.message.chat.id)
 
 
 @bot.message_handler(func=lambda message: True)
@@ -145,6 +157,7 @@ def handle_message(message):
         )
         bot.send_message(chat_id, gptRes, reply_markup=markup)
 
+
     elif chat_id in user_state and user_state[chat_id] == 'grammar_response_wait':
         bot.send_message(chat_id, gptStuff.answerCheck(message.text, gptRes))
         markup = InlineKeyboardMarkup()
@@ -154,6 +167,14 @@ def handle_message(message):
             InlineKeyboardButton("Продовжити", callback_data='grammar')
         )
         bot.send_message(chat_id, "Хочете продовжити?", reply_markup=markup)
+        user_state[chat_id] = 'waiting_grammar'
+
+
+    elif chat_id in user_state and user_state[chat_id] == 'await_ai_response':
+        bot.send_message(chat_id, 'Почекайте будь ласка')
+        bot.send_message(chat_id, gptStuff.askQuestions(message.text))
+        send_main_menu(chat_id)
+        reset_state(chat_id)
 
 
 def main():
