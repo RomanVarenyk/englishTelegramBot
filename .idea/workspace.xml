@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4d03321-390e-48f7-9414-8a9fbbf54a92" name="Changes" comment="Made practicing words possible. Only feature left is english practice conversations">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c4d03321-390e-48f7-9414-8a9fbbf54a92" name="Changes" comment="Alpha release of bot. All features have some kind of working capability. Still testing. (addition of AI question answering)">
       <change beforePath="$PROJECT_DIR$/gptStuff.py" beforeDir="false" afterPath="$PROJECT_DIR$/gptStuff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721959693221</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Alpha release of bot. All features have some kind of working capability. Still testing. (addition of AI question answering)">
+      <option name="closed" value="true" />
+      <created>1721961400613</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721961400613</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -131,6 +137,7 @@
     <MESSAGE value="Added words and definitions, still working" />
     <MESSAGE value="Fixed all words so compatible with selector" />
     <MESSAGE value="Made practicing words possible. Only feature left is english practice conversations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made practicing words possible. Only feature left is english practice conversations" />
+    <MESSAGE value="Alpha release of bot. All features have some kind of working capability. Still testing. (addition of AI question answering)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alpha release of bot. All features have some kind of working capability. Still testing. (addition of AI question answering)" />
   </component>
 </project>
