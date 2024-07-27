@@ -15,7 +15,7 @@ user_state = {}
 user_timers = {}
 user_word = {}
 wordList = []
-with open('words.txt', 'r', encoding='utf-8') as file:
+with open('data/words.txt', 'r', encoding='utf-8') as file:
     for line in file:
         wordList.append(line.strip())
 

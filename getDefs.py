@@ -54,7 +54,7 @@ def scrape_words(words, output_file, failed_words_file):
 
 def main():
     words = load_words('modified_words.txt')
-    output_file = 'extracted_content.txt'
+    output_file = 'data/extracted_content.txt'
     failed_words_file = 'failed_words.txt'
 
     # Clear the output files if they exist
