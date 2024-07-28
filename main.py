@@ -1,5 +1,8 @@
 import random
+import time
+
 import telebot
+from telebot import apihelper
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from threading import Timer, Event
 from dotenv import load_dotenv
@@ -177,8 +180,28 @@ def handle_message(message):
         reset_state(chat_id)
 
 
+apihelper.REQUEST_TIMEOUT = 5
+MAX_RETRIES = 5
+RETRY_DELAY = 5
+
+
 def main():
     bot.polling(none_stop=True)
+    retries = 0
+    while retries < MAX_RETRIES:
+        try:
+            bot.polling(none_stop=True)
+            break  # Exit the loop if polling starts successfully
+        except ConnectionError as e:
+            print(f"Connection error: {e}. Retrying in {RETRY_DELAY} seconds...")
+            retries += 1
+            time.sleep(RETRY_DELAY)
+        except Exception as e:
+            print(f"An unexpected error occurred: {e}")
+            break  # Exit the loop for unexpected errors
+
+    if retries == MAX_RETRIES:
+        print("Max retries reached. Exiting.")
 
 
 if __name__ == '__main__':
