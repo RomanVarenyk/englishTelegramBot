@@ -23,6 +23,10 @@ Welcome to the English Practice Telegram Bot! This bot is designed to help peopl
    ```sh
    git clone https://github.com/RomanVarenyk/englishTelegramBot.git
 
+## More about development
+   - This bot uses GPT-4o-mini for some of its responses
+   - This is done to give users more use out of the bot
+
 
 # Телеграм-бот для практики англійської мови
 
