@@ -8,6 +8,7 @@ import gptStuff
 import logging
 from datetime import datetime, timedelta
 import time
+import traceback
 
 load_dotenv()
 telegramKey = os.getenv('telegramKey')
@@ -20,6 +21,7 @@ restart_times = []
 
 MAX_RESTARTS = 15
 RESTART_WINDOW = timedelta(hours=24)
+LOG_FILE = "error_log.txt"
 
 wordList = []
 with open('data/words.txt', 'r', encoding='utf-8') as file:
@@ -43,10 +45,10 @@ def log_error_and_restart(exception):
         return False
 
     # Log the error
-    log_filename = f"log_{current_time.strftime('%Y-%m-%d_%H-%M-%S')}.txt"
-    with open(log_filename, 'w') as log_file:
+    with open(LOG_FILE, 'a') as log_file:
         log_file.write(f"Error occurred at {current_time}:\n")
-        log_file.write(f"{exception}\n")
+        log_file.write(''.join(traceback.format_exception(None, exception, exception.__traceback__)))
+        log_file.write("\n\n")
 
     # Record the restart time
     restart_times.append(current_time)
