@@ -1,0 +1,1217 @@
+hail of bullets
+rocket artillery
+rope
+rucksack
+sabotage group
+sabotage
+saboteur
+safety
+halo jump
+hammer
+hammock
+hand
+handheld
+handover
+handset
+sailor
+saline lock
+hangar
+salvo
+hangfire
+sanction
+harbor
+sandbag
+hard
+sandwich
+harm
+sapper
+satellite
+saturate
+sausage
+saving
+say again
+scatter
+scenario
+scout
+screen
+screw
+second
+sector
+secure
+security
+security element
+harness
+see
+hasty
+hatch
+haul
+hazard
+seek
+seize
+head
+heading
+headphone
+health
+heat
+heat seeker
+heating
+serve
+serviceman
+set a trap
+severe damage
+shaft
+shallow
+sham
+hedge
+hedgehog
+height
+heliborne
+shelter
+shift fire
+shift frequencies
+shift from a known point
+ship
+shoot
+helmet
+hide out
+firefight
+high powered
+high precision
+highway
+hijack
+hike
+hill
+shotgun
+shoulder
+shovel
+hit
+hold
+holder
+holding area
+hole
+holster
+homeland
+horse
+hostage
+hotel
+hover
+sight
+signal
+hull
+silver
+hypothermia
+single fire
+single combat
+siren
+identifiable
+situation
+sitz krieg
+skill
+skip
+illegal
+illumination
+image
+sniper
+implode
+improvised
+impunity
+inaccessible
+soak
+soldier
+solution
+sound
+south
+north
+west
+shrapnel
+incendiaries
+inch
+incursion
+indication
+indirect
+infantry
+infect
+infantryman
+infantry unit
+standard
+static defence
+stay
+stealth
+step
+sterilization
+stockpile
+store
+strength
+stress
+subordinate
+support
+suppress
+infighting
+infiltrate
+inflatable
+inflate
+inflict
+influence
+surgeon
+surplus
+ingress
+initiate
+injury
+sustainment
+syringe
+system
+t junction
+table
+tactical
+input
+tank
+tanker
+target
+insignia
+team
+inspect
+tear gas
+inspection
+inspector
+technique
+instability
+test
+instruct
+thermal
+insurgent
+intake
+intact
+intensity
+intent
+intercept
+interchangeability
+intercom
+interdict
+interior
+thermal signature
+thermobaric
+three man crew
+throat
+transit
+transition
+internment
+interpreter
+interrogation
+intersection
+interval
+invade
+invaders
+invasion
+invest
+investigation
+invincible
+invisible
+irregular
+irrepairable
+island
+isolated
+item
+jack up
+jacket
+jam
+jammer
+jamproof
+jeep
+jet
+jettison
+jolly roger
+jump in
+jumper
+jungle
+junk
+trap
+trauma
+kamikaze
+keel
+time
+trench
+dugout
+keeper
+kerosene
+key
+kill
+tripod
+topography
+troops
+troop carrier
+tracer
+track
+tracked
+tunnel
+search radar
+kit
+knot
+ladder
+land
+landmark
+laser
+latch
+turbine
+turn
+training
+train
+trains
+trajectory
+type
+ukrainian armed forces
+unblocking
+latrine
+launch
+launcher
+law
+lay
+lay down
+layer
+leader
+leaflet
+leak
+lease
+legion
+unearth
+lever
+liberty
+unfired
+licence
+life
+light
+lighter
+lighting
+lightning
+limb
+limit
+line
+link
+uniform
+unit cohesion
+unit
+unlawful
+unload
+live
+unscathed
+unsighted
+upstream
+urban area
+location
+lock
+log
+valve
+vehicle
+loiter
+long range
+loop
+looter
+low
+low flying
+lubrication
+machine
+magazine
+magnetic
+victim
+victory
+visibility
+wait
+wall
+war
+war crime
+war of attrition
+warfighter
+warhead
+warning
+water
+weapon
+management
+maneuver
+maneuverability
+manhole
+manufacturer
+map
+margin
+maritime
+marked map
+marker
+marksman
+martial law
+mask
+masking
+wire
+materiel
+wireless
+meal
+withstand
+work
+wound
+accomplish a mission
+mechanism
+medical equipment
+medical facility
+accurate fire
+medical planning
+achieve a breakthrough
+melting
+achieve fire superiority
+member
+mercs
+adjust fire
+mercenary
+adjustable
+mess
+administer first aid
+aerial recce
+method
+mg emplacement
+microwave
+military
+militia
+mine
+aid station
+airburst
+ally
+almost certainly
+amass
+ambulance
+ambush
+ambush position
+anti personnel
+minimum
+mining
+antipersonnel minefield
+antitank mine
+antitank minefield
+approach
+area defense
+arm a mine
+armor
+arsenal
+assault
+assault force
+assault from ambush
+assault landing
+assign a mission
+assignment
+assistant machine gunner
+missing
+assume a formation
+assume a position
+at opposition
+attack
+attack drone
+attack plan
+audacity
+authenticate
+avenue of approach
+avenue of retreat
+avenues of approach
+battlespace
+beach
+beach obstacle
+beacon
+mobile
+mobilization
+model
+modification
+modular
+cocktail
+monitor
+morphine
+beam
+beam rider
+bearing
+beaten
+beaten track
+become damp
+motion
+belt
+beret
+mechanized
+mountain
+mounted
+movement
+mud
+munition
+biological
+biological attack
+bipod
+bladder
+blade
+blank
+blank ammunition
+blanket
+musket proof
+blast
+muzzle
+blast effect
+muzzle brake
+zephyr
+blast overpressure
+zero
+zeroing
+blast wave
+zeroize
+blasting cap
+zone
+bleach
+bleed
+blind
+blinding
+blitz
+block
+block an attack
+blockade
+blockage
+blood type
+bluff
+blue forces
+blue force tracking
+blunt trauma
+body bag
+bolt action
+bolt carrier
+yard
+yawn
+bolt carrier assembly
+pacify
+bolt guide
+pack
+bolt up
+padding
+bomb attack
+bomb detector
+bomb proof
+bomb shelter
+bomb squad
+bombard
+bombardment
+bomblet
+boot camp
+border
+border control
+border disputes
+bore
+bore cleaner
+bore obstruction
+boresight
+bottom
+bottleneck
+bound
+boundary
+bounty
+box in
+bracketing
+breach
+breach a minefield
+breach defenses
+breaching
+bridge
+bridge company
+bridgehead
+bridging
+brief
+brigade artillery
+parachute
+browning link
+passage
+bruise
+passive
+buddy care
+password
+buckshot
+patch
+buckling
+path
+buddy system
+patrol
+bulletproof
+pay
+bullet wound
+peacekeeper
+buried mine
+peacetime
+buried minefield
+penetrate
+burn
+people
+burst
+perimeter
+burst fire
+burst out
+bury a mine
+bustle
+permanent base
+personal protection
+personnel
+petrol
+cable cutter
+phase
+cadet
+photograph
+physical fitness
+cannibalize
+cannon artillery
+pick off
+cannon fire
+pier
+cannon fodder
+pierce
+canteen
+pilot
+cap
+pill
+cargo helicopter
+pin
+pin down
+pistol
+pit
+plan
+plane
+plant
+plate carrier
+coating
+comb
+combined arms
+commando
+commission
+commit
+complex
+component
+composite artillery battalion
+concussion
+condition
+cone of fire
+contact
+contact with the enemy
+contain
+counter sabotage
+counterbattery fire
+crewman
+crewmember
+crewmen
+crossroad
+chill
+chlorine
+civil war
+civilians
+class
+classified
+clear the gun
+clicking
+cluster bomb
+coalition
+cohesion
+collaboration
+column
+combat losses
+combat medic
+combat resupply
+combat zone
+comms
+communications jammer
+communications link
+compound
+consolidate
+contain the enemy
+continuity of command
+continuity of defense
+convey
+convoy
+convoy escort
+cooperation
+coordinates
+cope cage
+correction
+counterattack
+counter battery fire
+counter offensive
+cover by fire
+cover
+concealment
+covering
+covering fire
+crew
+crew served weapon
+critical
+daily patrols
+damage
+dead space
+debrief
+defeat
+delay
+delay fuze
+deploy
+detach
+detachment
+detect
+directive
+displace
+disposable
+disregard
+diversion
+divert
+division
+doctrine
+dodge
+downrange
+downwind
+draftee
+drift
+driver
+pocket
+drop
+point man
+dud
+duty
+dysentery
+early warning
+earth bank
+earthwork
+easily accessible
+east
+eastbound
+echelon
+elevate
+engine exhaust
+engine failure
+engine oil
+engine test
+engineer
+enhanced
+engraving
+point target
+enlargement
+point
+enlist
+pollution
+pond
+pontoon
+pontoon bridge
+pooling
+position
+potable water
+pow collecting point
+powder
+practice
+precedence
+precision
+precision strike
+prediction
+preflight check
+preparatory fire
+pressure
+ecm environment
+primer
+priority
+procedure
+process
+proceeds
+product
+production
+productivity
+program
+prone
+propagation
+effect
+propellent
+propulsion
+protection
+prototype
+provide fire
+pump
+effective range
+pump action
+ejector
+punch
+purge
+purity
+pursuit
+element
+elevation
+elevator
+quadrant
+embed
+qualification
+emergency
+qualified
+emission
+emission control
+emit
+emplacement
+enclosed sea
+encode
+encounter
+end
+encrypt
+endurance
+enemy
+engage
+engine
+evacuate
+evaluation
+evasion
+exchange
+quarantine
+execution
+expendable
+quarter
+quitter
+quickie
+naked eye
+napalm
+nation
+naval academy
+navy
+naval blockade
+navigation
+navigator
+explode
+extract
+eye
+face
+facility
+needle
+fail safe
+fake
+fall back
+fall
+fall in
+fall out
+negotiate
+neighbor
+net
+netting
+network
+neutralise
+neutrality
+fatal injury
+fatigue
+ferry
+field
+fight
+fighting hole
+file
+fire fight
+fire rate
+fire support element
+fire team
+first aid kit
+fix
+flag
+flank
+flare
+flash
+flashlight
+flechette
+flexibility
+float
+flood
+flyover
+foe
+folding bipod
+follow
+nonflammable
+formation
+fort
+fortify
+forward
+foxhole
+frag
+fratricide
+freedom
+frequency
+friction
+friendly
+obey orders
+objective
+objective area
+fuel
+frostbite
+funnel
+fuze
+ensure adequate provisions
+entanglement
+obscure
+entrench
+observation
+envelop
+observe
+environment
+observer
+obsolete
+obstacle
+obstruction
+occlusion
+occupation
+occupy
+offensive
+error
+escape
+escort
+establish
+estimate
+offset
+oil
+on call
+on duty
+on foot
+on load
+on scene
+on target
+one eighty
+one up
+open fire
+open up
+operate
+operation
+opiates
+optimized
+orbit
+order
+ordnance
+organic
+organization
+organize
+orifice
+outcome
+outpost
+over
+overhead
+overrun
+overwatch
+oxygen
+race
+radar
+radiation
+radiator
+radio
+radio controlled
+radio net
+radioactive
+raid
+raincoat
+rainfall
+ram
+range
+range finder
+ranger candy
+rank
+ranking officer
+rappel
+re up
+react
+ready
+real time
+rearguard
+rearm
+rearward
+rebel
+rebellion
+receiver
+recess
+recock
+recoil
+recommitment
+recon by fire
+reconcentrate
+reconnoiter
+record
+recover
+recovery position
+recruiting
+reduction
+reduce
+reference
+reflector
+refit
+refuel
+refugee
+register
+regulars
+rehabilitation
+reinforce
+relationship
+relay
+release
+reliability
+relieve
+reload
+relocation
+removal
+reorganize
+repair
+repeat
+repeater
+replacement battery
+request fire
+requirement
+requisition
+rescue
+research
+reserve
+reservist
+resign
+resolve
+restrict fire
+resupply
+retardation
+retire
+retreat
+return fire
+revision
+rib
+ride
+rifle
+rifleman
+rifling
+ring
+riot
+road
+half
+safety pin
+hydraulic
+salute (size; activity; location; unit; time; equipment)
+harmless
+schedule
+harmful
+sea
+he
+self aid
+headquarters
+semi
+hear
+separate
+heavy bomber aviation regiment (hbar)
+shell
+heavy machine gun (hmg)
+shelling
+helicopter
+shootout
+high explosive
+shot
+himars
+side
+hold your fire!
+sick
+hostile
+siege
+howitzer
+true a sight
+human
+simulate
+ice
+id
+situation report
+ied
+sleep
+iff
+sleeping
+imagine
+small arms (sa)
+immobile
+small tactical unmanned aircraft system (stuas)
+smoke
+impact
+smog
+impede
+smooth bore
+implement
+snow
+inadequate
+special forces
+incident
+shell casing
+indiscriminate
+spray and pray
+infantry fighting vehicle (ifv)
+standing order(s)
+infantry mobility vehicle (imv)
+surface to air missile (sam)
+fire when ready (fwr)
+nlaw (next generation light anti tank weapon)
+non commissioned officers (nco)
+follow me
+non lethal
+forest
+north atlantic treaty organization (nato)
+objective rally(ing) point (orp)
+eod
+officer
+equipment
+official
+on hand
+open source intelligence (osint)
+opened / closed
+operation order (opord)
+operational security (opsec)
+optical
+orientation
+original
+overheat
+radio frequency (rf)
+radio telephone operator (rto)
+rain
+random
+rations
+readiness condition (redcon)
+front sight
+rear sight
+recogntion
+recon unit
+recruit
+relative
+reveille / réveillé
+risk
+river
+zulu time; gmt
+body armor
+yankee
+paint
+panic
+brigade combat team/bct
+parachute drop/jump
+passanger
+massacre
+peace
+bull's eye
+perimeter defense (all around defense)
+butterfly mine
+cache
+phase line (pl)
+cadence (call)
+cannon launched guided projectile (clgp)
+pillbox
+casualty collecting point (ccp)
+planned
+chemical, biological, radiological and nuclear (cbrn)
+private
+close air support (cas)
+pfc(private first class)
+commander's intent
+corporal
+commanding officer (co)
+sergeant
+2nd lieutenant
+counter insurgency warfare (coin)
+captain
+cic (сombat information control)
+major
+lt. colonel
+clash
+colonel
+close quarters combat (cqc) / close quarters battle (cqb)
+collapsible
+squad
+command post (cp)
+platoon
+company
+concertina (wire)
+battalion
+contingency
+brigade
+regiment
+ballistic arc
+corps
+documents
+field army
+platoon sergeant
+drone
+pog (people other than grunts)
+dual purpose improved conventional munition (dpicm)
+enlistment office (draft office)
+prevent
+ecm
+primary, alternate, contingency, emergency (pace)
+ecology
+economy
+projectile
+ecwcs
+propaganda
+effective
+electronic warfare
+quadcopter
+quality control (qc)
+experience
+nbc
+factory
+negative
+far
+night
+night vision device (nvd)
+fire control system (fcs)
+night vision goggles (nvg)
+information
+surrender
+infrared (ir)
+surround
+standard operating procedures (sop)
+insert
+temperature
+instalation
+thermal sight/scope
+inteligence
+thermal camera
+intermediate
+through
+internal
+transmitter
+transportaion
+k 9
+tighten
+keep
+triger
+killed in action (kia)
+total
+kinetic kill
+track radar
+latitude
+longtitude
+underwater
+lend
+unexploded ordnance (uxo)
+unidentified
+liquid
+unmanned ground system (ugs)
+local
+unmanned undersea vehicle (uuv)
+light antitank weapon (law)
+vacation
+logistics
+vehicle borne improvised explosive device (vbied)
+main
+walking
+maintain
+wall of fire
+weather
+man portable air defense system (manpads)
+welding
+march algorythm
+winter
+meal ready to eat (mre)
+working
+mechanical
+accountability
+medical evacuation (medevac)
+accuracy
+affirmative…
+method of operation (moo)
+after action review
+mine clearing
+minefield
+anti tank guided missile(atgm)
+ministry
+arc of fire
+minister
+area of operations
+missile
+missing in action (mia)
+at position
+mission, enemy, terrain (and weather), troops, time available, civil considerations (mett tc)
+bacon
+mortar
+been there, done that
+motorized
+beyond line of sight (blos)
+mushroom
+musket
